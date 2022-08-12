@@ -1,0 +1,10 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="invoked_scenario_SquirrelFar_Idle_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="invoked_scenario_SquirrelFar_Idle_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

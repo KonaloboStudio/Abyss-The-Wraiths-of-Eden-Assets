@@ -1,0 +1,9 @@
+<animatedImage fps="15.00" blendframes="0">
+
+    <frame source="dead-zed_anim_1.png"></frame>
+    <frame source="dead-zed_anim_2.png"></frame>
+    <frame source="dead-zed_anim_3.png"></frame>
+    <frame source="dead-zed_anim_4.png"></frame>
+    <frame source="dead-zed_anim_5.png"></frame>
+
+</animatedImage>

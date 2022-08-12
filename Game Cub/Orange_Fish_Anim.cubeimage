@@ -1,0 +1,12 @@
+<animatedImage fps="5.00" blendframes="0" randomstart="1">
+
+    <frame source="Orange_Fish0000.png"></frame>
+    <frame source="Orange_Fish0001.png"></frame>
+    <frame source="Orange_Fish0002.png"></frame>
+    <frame source="Orange_Fish0003.png"></frame>
+    <frame source="Orange_Fish0004.png"></frame>
+    <frame source="Orange_Fish0005.png"></frame>
+    <frame source="Orange_Fish0006.png"></frame>
+    <frame source="Orange_Fish0007.png"></frame>
+
+</animatedImage>

@@ -1,0 +1,6 @@
+<animatedImage fps="4" blendframes="0" width="106" height="178"> 
+	<frame source="z_small_tree2_rejin_1.png" dx="73" dy="0" width="33" height="38"></frame>
+	<frame source="z_small_tree2_rejin_2.png" dx="64" dy="0" width="42" height="118"></frame>
+	<frame source="z_small_tree2_rejin_3.png" dx="58" dy="0" width="48" height="145"></frame>
+	<frame source="z_small_tree2_rejin_4.png" dx="0" dy="0" width="106" height="178"></frame>
+</animatedImage >

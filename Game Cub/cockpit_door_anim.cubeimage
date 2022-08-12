@@ -1,0 +1,9 @@
+<animatedImage fps="5.00" blendframes="0">
+
+    <frame source="cockpit_door_0.png"></frame>
+    <frame source="cockpit_door_1.png"></frame>
+    <frame source="cockipt_door_2.png"></frame>
+    <frame source="cockpit_door_3.png"></frame>
+    <frame source="cockpit_door_4.png"></frame>
+
+</animatedImage>

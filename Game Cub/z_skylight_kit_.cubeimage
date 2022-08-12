@@ -1,0 +1,5 @@
+<animatedImage fps="1.5" blendframes="1" width="463" height="397"> 
+	<frame source="z_skylight_EX_Kit_01.png" dx="0" dy="0" width="463" height="397"></frame>
+	<frame source="z_skylight_EX_Kit_02.png" dx="0" dy="0" width="463" height="392"></frame>
+	<frame source="z_skylight_EX_Kit_03.png" dx="0" dy="0" width="463" height="391"></frame>
+</animatedImage >

@@ -1,0 +1,12 @@
+<!-- Used in Main menu. Place cursor over any profile in Profile list.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="mainmenu_profile_over_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="mainmenu_profile_over_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

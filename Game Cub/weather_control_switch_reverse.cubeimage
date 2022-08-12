@@ -1,0 +1,6 @@
+<animatedImage fps="4" blendframes="1" width="91" height="74"> 
+
+    <frame source="weather_control_switch_03.png" dx="0" dy="1" width="91" height="72"></frame>
+    <frame source="weather_control_switch_01.png" dx="0" dy="0" width="91" height="74"></frame>
+
+</animatedImage>

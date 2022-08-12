@@ -1,0 +1,32 @@
+<animatedImage fps="15" blendframes="0" width="91" height="152"> 
+
+	<frame source="ui_EX_diary_anim_frame_028.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_027.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_026.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_025.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_024.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_023.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_022.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_021.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_020.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_019.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_018.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_017.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_016.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_015.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_014.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_013.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_012.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_011.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_010.png" dx="0" dy="0" width="91" height="152"></frame>
+	<frame source="ui_EX_diary_anim_frame_009.png" dx="0" dy="1" width="91" height="151"></frame>
+	<frame source="ui_EX_diary_anim_frame_008.png" dx="0" dy="2" width="91" height="150"></frame>
+	<frame source="ui_EX_diary_anim_frame_007.png" dx="0" dy="5" width="91" height="147"></frame>
+	<frame source="ui_EX_diary_anim_frame_006.png" dx="0" dy="8" width="91" height="144"></frame>
+	<frame source="ui_EX_diary_anim_frame_005.png" dx="0" dy="12" width="91" height="140"></frame>
+	<frame source="ui_EX_diary_anim_frame_004.png" dx="0" dy="16" width="91" height="136"></frame>
+	<frame source="ui_EX_diary_anim_frame_003.png" dx="0" dy="21" width="91" height="131"></frame>
+	<frame source="ui_EX_diary_anim_frame_002.png" dx="0" dy="25" width="91" height="127"></frame>
+	<frame source="ui_EX_diary_anim_frame_001.png" dx="0" dy="28" width="91" height="124"></frame>
+	
+</animatedImage >

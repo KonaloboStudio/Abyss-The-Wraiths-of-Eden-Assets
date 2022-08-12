@@ -1,0 +1,13 @@
+<animatedImage fps="12" blendframes="0" width="209" height="112"> 
+	<frame source="fsz_vine_01_Vine_acidB_06.png" dx="41" dy="1" width="168" height="111"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_05.png" dx="37" dy="3" width="170" height="109"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_04.png" dx="33" dy="0" width="174" height="112"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_03.png" dx="24" dy="1" width="183" height="111"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_02.png" dx="13" dy="2" width="194" height="110"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_01.png" dx="0" dy="5" width="207" height="107"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_02.png" dx="13" dy="2" width="194" height="110"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_03.png" dx="24" dy="1" width="183" height="111"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_04.png" dx="33" dy="0" width="174" height="112"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_05.png" dx="37" dy="3" width="170" height="109"></frame>
+	<frame source="fsz_vine_01_Vine_acidB_06.png" dx="41" dy="1" width="168" height="111"></frame>
+</animatedImage >

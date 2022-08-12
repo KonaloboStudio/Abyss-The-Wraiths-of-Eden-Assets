@@ -1,0 +1,13 @@
+<animatedImage fps="10" blendframes="0" width="233" height="123"> 
+	<frame source="lab_table_wax_transfer_0.png" dx="83" dy="0" width="150" height="114"></frame>
+	<frame source="lab_table_wax_transfer_1.png" dx="27" dy="0" width="175" height="98"></frame>
+	<frame source="lab_table_wax_transfer_2.png" dx="27" dy="0" width="175" height="98"></frame>
+	<frame source="lab_table_wax_transfer_3.png" dx="27" dy="0" width="175" height="98"></frame>
+	<frame source="lab_table_wax_transfer_4.png" dx="27" dy="0" width="175" height="98"></frame>
+	<frame source="lab_table_wax_transfer_5.png" dx="27" dy="0" width="175" height="105"></frame>
+	<frame source="lab_table_wax_transfer_6.png" dx="27" dy="0" width="175" height="107"></frame>
+	<frame source="lab_table_wax_transfer_7.png" dx="5" dy="0" width="197" height="119"></frame>
+	<frame source="lab_table_wax_transfer_8.png" dx="27" dy="0" width="175" height="107"></frame>
+	<frame source="lab_table_wax_transfer_9.png" dx="5" dy="0" width="197" height="119"></frame>
+	<frame source="lab_table_wax_transfer_10.png" dx="0" dy="0" width="202" height="123"></frame>
+</animatedImage >

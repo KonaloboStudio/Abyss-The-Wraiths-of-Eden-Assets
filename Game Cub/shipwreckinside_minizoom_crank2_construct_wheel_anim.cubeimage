@@ -1,0 +1,10 @@
+<animatedImage fps="10.00" blendframes="0">
+
+    <frame source="shipwreckinside_minizoom_crank2_construct_wheel_anim_01.png"></frame>
+    <frame source="shipwreckinside_minizoom_crank2_construct_wheel_anim_02.png"></frame>
+    <frame source="shipwreckinside_minizoom_crank2_construct_wheel_anim_03.png"></frame>
+    <frame source="shipwreckinside_minizoom_crank2_construct_wheel_anim_04.png"></frame>
+    <frame source="shipwreckinside_minizoom_crank2_construct_wheel_anim_05.png"></frame>
+    <frame source="shipwreckinside_minizoom_crank2_construct_wheel_anim_06.png"></frame>
+
+</animatedImage>

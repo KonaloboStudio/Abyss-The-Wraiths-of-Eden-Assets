@@ -1,0 +1,17 @@
+<animatedImage fps="16" blendframes="0" width="172" height="205"> 
+	<frame source="fsz_vine_01_Vine_acid_08.png" dx="10" dy="43" width="162" height="162"></frame>
+	<frame source="fsz_vine_01_Vine_acid_07.png" dx="8" dy="32" width="164" height="173"></frame>
+	<frame source="fsz_vine_01_Vine_acid_06.png" dx="5" dy="22" width="167" height="183"></frame>
+	<frame source="fsz_vine_01_Vine_acid_05.png" dx="3" dy="11" width="169" height="194"></frame>
+	<frame source="fsz_vine_01_Vine_acid_04.png" dx="4" dy="2" width="168" height="203"></frame>
+	<frame source="fsz_vine_01_Vine_acid_03.png" dx="5" dy="0" width="167" height="205"></frame>
+	<frame source="fsz_vine_01_Vine_acid_02.png" dx="0" dy="1" width="172" height="204"></frame>
+	<frame source="fsz_vine_01_Vine_acid_01.png" dx="0" dy="1" width="172" height="204"></frame>
+	<frame source="fsz_vine_01_Vine_acid_02.png" dx="0" dy="1" width="172" height="204"></frame>
+	<frame source="fsz_vine_01_Vine_acid_03.png" dx="5" dy="0" width="167" height="205"></frame>
+	<frame source="fsz_vine_01_Vine_acid_04.png" dx="4" dy="2" width="168" height="203"></frame>
+	<frame source="fsz_vine_01_Vine_acid_05.png" dx="3" dy="11" width="169" height="194"></frame>
+	<frame source="fsz_vine_01_Vine_acid_06.png" dx="5" dy="22" width="167" height="183"></frame>
+	<frame source="fsz_vine_01_Vine_acid_07.png" dx="8" dy="32" width="164" height="173"></frame>
+	<frame source="fsz_vine_01_Vine_acid_08.png" dx="10" dy="43" width="162" height="162"></frame>
+</animatedImage >

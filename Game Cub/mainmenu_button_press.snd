@@ -1,0 +1,7 @@
+<!-- Used in Main menu. Place a cursor over any option / button.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1" FileName="Menu_Item_Press.wav"></CSampleFile>
+        </CSample>
+</Sound>

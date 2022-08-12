@@ -1,0 +1,7 @@
+<!-- Voice-Over -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="CAVE-AND-WRECK_ZOOM_WINDOW_AFTER-CUTSCENE_COMM.wav"></CSampleFile>
+        </CSample>
+</Sound>

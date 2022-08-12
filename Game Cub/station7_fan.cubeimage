@@ -1,0 +1,10 @@
+<animatedImage fps="8" blendframes="0" width="105" height="110"> 
+	<frame source="station7_Fan_8.png" dx="1" dy="1" width="104" height="108"></frame>
+	<frame source="station7_Fan_7.png" dx="1" dy="0" width="104" height="110"></frame>
+	<frame source="station7_Fan_6.png" dx="1" dy="2" width="104" height="107"></frame>
+	<frame source="station7_Fan_5.png" dx="1" dy="0" width="104" height="110"></frame>
+	<frame source="station7_Fan_4.png" dx="1" dy="2" width="104" height="107"></frame>
+	<frame source="station7_Fan_3.png" dx="0" dy="0" width="104" height="110"></frame>
+	<frame source="station7_Fan_2.png" dx="1" dy="1" width="103" height="107"></frame>
+	<frame source="station7_Fan_1.png" dx="0" dy="0" width="104" height="110"></frame>
+</animatedImage >

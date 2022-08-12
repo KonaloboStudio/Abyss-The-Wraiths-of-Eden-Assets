@@ -1,0 +1,7 @@
+<animatedImage fps="5" blendframes="0" width="260" height="159"> 
+	<frame source="concrete_EX_concrete_001.png" dx="0" dy="0" width="260" height="159"></frame>
+	<frame source="concrete_EX_concrete_002.png" dx="0" dy="0" width="260" height="159"></frame>
+	<frame source="concrete_EX_concrete_003.png" dx="0" dy="0" width="260" height="159"></frame>
+	<frame source="concrete_EX_concrete_004.png" dx="0" dy="0" width="260" height="159"></frame>
+	<frame source="concrete_EX_concrete_005.png" dx="0" dy="0" width="260" height="159"></frame>
+</animatedImage >

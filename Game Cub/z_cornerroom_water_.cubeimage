@@ -1,0 +1,5 @@
+<animatedImage fps="3_" blendframes="0" width="40" height="39"> 
+	<frame source="z_cornerroom_Water_01.png" dx="3" dy="0" width="37" height="29"></frame>
+	<frame source="z_cornerroom_Water_02.png" dx="8" dy="1" width="26" height="31"></frame>
+	<frame source="z_cornerroom_Water_03.png" dx="0" dy="1" width="39" height="38"></frame>
+</animatedImage >

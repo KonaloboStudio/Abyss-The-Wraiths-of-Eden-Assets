@@ -1,0 +1,13 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="0.650" FileName="invoked_scenario_DischargeShort_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="0.650" FileName="invoked_scenario_DischargeShort_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="0.650" FileName="invoked_scenario_DischargeShort_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

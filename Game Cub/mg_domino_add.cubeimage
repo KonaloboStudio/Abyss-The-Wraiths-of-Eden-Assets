@@ -1,0 +1,6 @@
+<animatedImage fps="8" blendframes="0" width="111" height="110"> 
+	<frame source="mg_domino_Eden_sign_flash_01.png" dx="0" dy="0" width="111" height="110"></frame>
+	<frame source="mg_domino_Eden_sign_flash_02.png" dx="0" dy="0" width="111" height="110"></frame>
+	<frame source="mg_domino_Eden_sign_flash_03.png" dx="0" dy="0" width="111" height="110"></frame>
+	<frame source="mg_domino_Eden_sign_flash_04.png" dx="0" dy="0" width="111" height="110"></frame>
+</animatedImage >

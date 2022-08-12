@@ -1,0 +1,19 @@
+<animatedImage fps="15" blendframes="0" width="105" height="94"> 
+
+	<frame source="ui_EX_hint_helmet_015.png" dx="74" dy="0" width="31" height="94"></frame>
+	<frame source="ui_EX_hint_helmet_014.png" dx="65" dy="0" width="31" height="93"></frame>
+	<frame source="ui_EX_hint_helmet_013.png" dx="49" dy="0" width="41" height="93"></frame>
+	<frame source="ui_EX_hint_helmet_012.png" dx="34" dy="0" width="53" height="92"></frame>
+	<frame source="ui_EX_hint_helmet_011.png" dx="22" dy="1" width="63" height="90"></frame>
+	<frame source="ui_EX_hint_helmet_010.png" dx="12" dy="2" width="73" height="88"></frame>
+	<frame source="ui_EX_hint_helmet_009.png" dx="6" dy="3" width="79" height="87"></frame>
+	<frame source="ui_EX_hint_helmet_008.png" dx="2" dy="4" width="83" height="85"></frame>
+	<frame source="ui_EX_hint_helmet_007.png" dx="0" dy="5" width="85" height="84"></frame>
+	<frame source="ui_EX_hint_helmet_006.png" dx="0" dy="6" width="85" height="82"></frame>
+	<frame source="ui_EX_hint_helmet_005.png" dx="1" dy="7" width="84" height="81"></frame>
+	<frame source="ui_EX_hint_helmet_004.png" dx="2" dy="8" width="83" height="80"></frame>
+	<frame source="ui_EX_hint_helmet_003.png" dx="4" dy="8" width="81" height="80"></frame>
+	<frame source="ui_EX_hint_helmet_002.png" dx="6" dy="9" width="79" height="78"></frame>
+	<frame source="ui_EX_hint_helmet_001.png" dx="7" dy="9" width="78" height="78"></frame>
+	
+</animatedImage >

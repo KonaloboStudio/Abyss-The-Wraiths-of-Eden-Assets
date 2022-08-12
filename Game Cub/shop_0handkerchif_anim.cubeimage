@@ -1,0 +1,7 @@
+<animatedImage fps="10.00" blendframes="0">
+
+    <frame source="shop_0handkerchif_closed.png"></frame>
+    <frame source="shop_0handkerchif01.png"></frame>
+    <frame source="shop_0handkerchif02.png"></frame>
+
+</animatedImage>

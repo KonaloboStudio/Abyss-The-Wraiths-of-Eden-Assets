@@ -1,0 +1,10 @@
+<animatedImage fps="8" blendframes="0" width="325" height="534"> 
+	<frame source="fsz_vine_01_1.png" dx="0" dy="0" width="322" height="534"></frame>
+	<frame source="fsz_vine_01_2.png" dx="0" dy="12" width="325" height="512"></frame>
+	<frame source="fsz_vine_01_3.png" dx="0" dy="23" width="318" height="492"></frame>
+	<frame source="fsz_vine_01_4.png" dx="0" dy="44" width="304" height="427"></frame>
+	<frame source="fsz_vine_01_5.png" dx="0" dy="66" width="245" height="376"></frame>
+	<frame source="fsz_vine_01_6.png" dx="0" dy="141" width="240" height="305"></frame>
+	<frame source="fsz_vine_01_7.png" dx="0" dy="127" width="200" height="304"></frame>
+	<frame source="fsz_vine_01_8.png" dx="0" dy="90" width="121" height="296"></frame>
+</animatedImage >

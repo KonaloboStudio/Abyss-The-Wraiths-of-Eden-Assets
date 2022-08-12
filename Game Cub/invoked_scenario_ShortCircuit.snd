@@ -1,0 +1,16 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="-0.300" Pitch="0.900" Volume="0.650" FileName="invoked_scenario_ShortCircuit_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.400" Pitch="0.750" Volume="1.000" FileName="invoked_scenario_ShortCircuit_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="-0.500" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_ShortCircuit_3.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="1.200" Volume="0.890" FileName="invoked_scenario_ShortCircuit_4.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

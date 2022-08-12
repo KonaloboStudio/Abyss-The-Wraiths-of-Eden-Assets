@@ -1,0 +1,9 @@
+<animatedImage fps="5.00" blendframes="0">
+
+    <frame source="zoom_chest_key01.png"></frame>
+    <frame source="zoom_chest_key02.png"></frame>
+    <frame source="zoom_chest_key03.png"></frame>
+    <frame source="zoom_chest_key04.png"></frame>
+    <frame source="zoom_chest_key01.png"></frame>
+
+</animatedImage>

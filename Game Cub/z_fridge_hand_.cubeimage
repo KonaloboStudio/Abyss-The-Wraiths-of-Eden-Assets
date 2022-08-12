@@ -1,0 +1,8 @@
+<animatedImage fps="12" blendframes="0" width="356" height="321"> 
+	<frame source="z_fridge_Hand_01.png" dx="150" dy="0" width="203" height="201"></frame>
+	<frame source="z_fridge_Hand_02.png" dx="144" dy="20" width="212" height="190"></frame>
+	<frame source="z_fridge_Hand_03.png" dx="146" dy="16" width="204" height="211"></frame>
+	<frame source="z_fridge_Hand_04.png" dx="141" dy="29" width="208" height="220"></frame>
+	<frame source="z_fridge_Hand_05.png" dx="82" dy="61" width="263" height="202"></frame>
+	<frame source="z_fridge_Hand_06.png" dx="0" dy="0" width="348" height="321"></frame>
+</animatedImage >

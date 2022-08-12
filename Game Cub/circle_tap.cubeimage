@@ -1,0 +1,13 @@
+                            
+<animatedImage fps="20.00" blendframes="0">
+<frame source="circle_tap_1.png" ></frame>
+<frame source="circle_tap_2.png" ></frame>
+<frame source="circle_tap_3.png" ></frame>
+<frame source="circle_tap_4.png" ></frame>
+<frame source="circle_tap_5.png" ></frame>
+<frame source="circle_tap_6.png" ></frame>
+<frame source="circle_tap_7.png" ></frame>
+<frame source="circle_tap_8.png" ></frame>
+<frame source="circle_tap_9.png" ></frame>
+<frame source="circle_tap_10.png" ></frame>
+</animatedImage>

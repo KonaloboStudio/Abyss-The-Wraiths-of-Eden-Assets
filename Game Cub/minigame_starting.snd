@@ -1,0 +1,18 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.7" 
+FileName="minigame_starting.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="0.3">
+			<CSample>
+				<CSampleFile Pan="0.500" Pitch="0.900" Volume="1.0" 
+FileName="minigame_starting_bubbles.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

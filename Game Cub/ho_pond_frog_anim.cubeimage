@@ -1,0 +1,18 @@
+<animatedImage fps="3.00" blendframes="0" randomstart="0">
+
+    <frame source="ho_pond_frog01.png"></frame>
+    <frame source="ho_pond_frog01a.png"></frame>
+    <frame source="ho_pond_frog01.png"></frame>
+    <frame source="ho_pond_frog01a.png"></frame>
+    <frame source="ho_pond_frog01.png"></frame>
+    <frame source="ho_pond_frog01a.png"></frame>
+    <frame source="ho_pond_frog01.png"></frame>
+    <frame source="ho_pond_frog01b.png"></frame>
+    <frame source="ho_pond_frog01.png"></frame>
+    <frame source="ho_pond_frog01a.png"></frame>
+    <frame source="ho_pond_frog01.png"></frame>
+    <frame source="ho_pond_frog01a.png"></frame>
+    <frame source="ho_pond_frog01.png"></frame>
+    <frame source="ho_pond_frog01b.png"></frame>
+
+</animatedImage>

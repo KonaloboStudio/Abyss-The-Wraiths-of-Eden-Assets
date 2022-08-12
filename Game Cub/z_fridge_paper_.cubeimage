@@ -1,0 +1,8 @@
+<animatedImage fps="12" blendframes="0" width="224" height="216"> 
+	<frame source="z_fridge_paper_01.png" dx="0" dy="0" width="37" height="157"></frame>
+	<frame source="z_fridge_paper_02.png" dx="16" dy="29" width="43" height="136"></frame>
+	<frame source="z_fridge_paper_03.png" dx="18" dy="65" width="83" height="112"></frame>
+	<frame source="z_fridge_paper_04.png" dx="31" dy="101" width="120" height="90"></frame>
+	<frame source="z_fridge_paper_05.png" dx="48" dy="128" width="145" height="73"></frame>
+	<frame source="z_fridge_paper_06.png" dx="63" dy="143" width="161" height="73"></frame>
+</animatedImage >

@@ -1,0 +1,5 @@
+<animatedImage fps="3_" blendframes="0" width="89" height="81"> 
+	<frame source="flowers_01_Bud_01.png" dx="0" dy="0" width="85" height="81"></frame>
+	<frame source="flowers_01_Bud_02.png" dx="0" dy="0" width="85" height="81"></frame>
+	<frame source="flowers_01_Bud_03.png" dx="0" dy="0" width="89" height="81"></frame>
+</animatedImage >

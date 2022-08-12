@@ -1,0 +1,12 @@
+<animatedImage fps="8.00" blendframes="0">
+
+    <frame source="zoom_fountain_mechanizm_velve_frame_01.png"></frame>
+    <frame source="zoom_fountain_mechanizm_velve_frame_02.png"></frame>
+    <frame source="zoom_fountain_mechanizm_velve_frame_03.png"></frame>
+    <frame source="zoom_fountain_mechanizm_velve_frame_04.png"></frame>
+    <frame source="zoom_fountain_mechanizm_velve_frame_05.png"></frame>
+    <frame source="zoom_fountain_mechanizm_velve_frame_06.png"></frame>
+    <frame source="zoom_fountain_mechanizm_velve_frame_07.png"></frame>
+    <frame source="zoom_fountain_mechanizm_velve_frame_08.png"></frame>
+
+</animatedImage>

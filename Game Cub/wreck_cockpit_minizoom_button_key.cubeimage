@@ -1,0 +1,12 @@
+<animatedImage fps="8.00" blendframes="0">
+
+    <frame source="wreck_cockpit_minizoom_button_key_04.png"></frame>
+    <frame source="wreck_cockpit_minizoom_button_key_03.png"></frame>
+    <frame source="wreck_cockpit_minizoom_button_key_02.png"></frame>
+    <frame source="wreck_cockpit_minizoom_button_key_01.png"></frame>
+    <frame source="wreck_cockpit_minizoom_button_key_04.png"></frame>
+    <frame source="wreck_cockpit_minizoom_button_key_03.png"></frame>
+    <frame source="wreck_cockpit_minizoom_button_key_02.png"></frame>
+    <frame source="wreck_cockpit_minizoom_button_key_01.png"></frame>
+
+</animatedImage>

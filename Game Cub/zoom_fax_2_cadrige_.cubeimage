@@ -1,0 +1,6 @@
+<animatedImage fps="4_" blendframes="0" width="68" height="178"> 
+	<frame source="zoom_fax_2_cadr_01.png" dx="0" dy="0" width="68" height="178"></frame>
+	<frame source="zoom_fax_2_cadr_02.png" dx="0" dy="0" width="68" height="178"></frame>
+	<frame source="zoom_fax_2_cadr_03.png" dx="0" dy="0" width="68" height="178"></frame>
+	<frame source="zoom_fax_2_cadr_04.png" dx="0" dy="0" width="68" height="178"></frame>
+</animatedImage >

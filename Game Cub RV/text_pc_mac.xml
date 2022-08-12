@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <Worksheet ss:Name="Arkusz1">
+  <Table>
+   <Column ss:AutoFitWidth="0" ss:Width="200"/>
+   <Column ss:AutoFitWidth="0" ss:Width="500"/>
+   <Row>
+    <Cell><Data ss:Type="String">ACHIEVMENT_COMPLETED_DESC_8</Data></Cell>
+    <Cell><Data ss:Type="String">У вас достойная цель! Вы прошли сцену поиска практически без промахов!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ACHIEVMENT_DESC_8</Data></Cell>
+    <Cell><Data ss:Type="String">Пройдите любую сцену поиска менее чем с 5 кликами мимо</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MAINMENU_HELP_MOUSE_CURSORS_LIPS</Data></Cell>
+    <Cell><Data ss:Type="String">Иконка Губ показывает, что персонаж хочет что-то сказать. Кликните на него, чтобы начать разговор.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MAINMENU_HELP_MOUSE_CURSORS_NAWIGATIONS</Data></Cell>
+    <Cell><Data ss:Type="String">Стрелки указывают, что можно пройти к следующей локации.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MAINMENU_HELP_MOUSE_CURSORS_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Курсор Мыши</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MAINMENU_HELP_MOUSE_CURSORS_WELCOME_2</Data></Cell>
+    <Cell><Data ss:Type="String">В этой игре вы примените свои навыки, чтобы спасти свою дочь от угроз моря и открыть многовековую тайну пиратов. Курсор поможет вам взаимодействовать с игровым миром.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MAINMENU_HELP_PUZZLES_CHARGE_SKIP</Data></Cell>
+    <Cell><Data ss:Type="String">Подождите, пока Пропуск зарядится, и затем нажмите на него.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MENU_PROFILE_NOT-YOU</Data></Cell>
+    <Cell><Data ss:Type="String">Если это не вы,\nнажмите здесь.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PLAYING-MODE_ADVANCED_DESC</Data></Cell>
+    <Cell><Data ss:Type="String">- Подсказка и Пропуск перезаряжаются на средней скорости\n- Активные зоны не подсвечиваются\n- Зоны Поиска Предметов подсвечиваются\n- Промах при Поиске Предметов не существенен\n- Локации с возможным действием указываются на карте.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PLAYING-MODE_EXPERT_DESC</Data></Cell>
+    <Cell><Data ss:Type="String">- Подсказка и Пропуск перезаряжаются медленно\n- Активные Зоны не подсвечиваются\n- Зоны Поиска Предметов не обозначены\n- За неточный клик при Поиске предметов налагается штраф\n- Локации с доступным действием не подсвечены</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PLAYING-MODE_REGULAR_DESC</Data></Cell>
+    <Cell><Data ss:Type="String">- Подсказка и Пропуск перезаряжаются быстро\n- Активные Зоны светятся\n- Зоны Поиска предметов светятся\n- За  не точный клик при Поиске предметов никакого наказания не предусмотрено\n- Локации с доступным действием обозначены на карте</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_10_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Курсор превратится в руку, когда можно будет с чем-то взаимодействовать.\nВключите камеру.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_11_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Курсор превратится в стрелку, когда можно перейти в другую локацию.\nНажмите на дверь.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_12_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Когда задача выполнена, она отмечается галочкой.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_17_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Если вы застряли, вы можете нажать на кнопку Пропустить, но вам нужно подождать, пока она зарядится.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_1_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">У вас появилась новая полезная запись.\nОткройте Дневник, чтобы её прочитать.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_2_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Искры указывают на сцену поиска предметов.\nНажмите на сцену, чтобы начать поиск.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_3_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Найдите все спрятанные предметы.\nНазвания предметов написаны голубым, если нужно совершить дополнительное действие, чтобы их найти.\nНажмите на предмет.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_4_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Если вы застряли, нажмите на Совет. Он должен перезарядиться, если вы захотите его снова использовать.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_5_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Курсор превратится в лупу, если сцену можно рассмотреть поближе.\nНажмите на камеру.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_6_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Курсор превратится в руку, когда вы можете взять предмет.\nНажмите на жетон.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_7_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Все ваши записи находятся в разделе Задачи.\nНажмите на закладку Задачи.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_8_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете использовать предметы из инвентаря, чтобы преодолевать препятствия.\nВозьмите ключ и откройте дверь.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_9_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Теперь нужна ручка.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_1</Data></Cell>
+    <Cell><Data ss:Type="String">Вместо того, чтобы искать предметы, вы можете сыграть в Домино.\nНажмите, чтобы переключиться в режим Домино.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_10</Data></Cell>
+    <Cell><Data ss:Type="String">Как только вы активируете в Домино одно из деревьев, вы находите один из предметов, и наоборот.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_11</Data></Cell>
+    <Cell><Data ss:Type="String">Чтобы вернуться к поиску предметов, нажмите на Домино.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_12</Data></Cell>
+    <Cell><Data ss:Type="String">Если вы застряли, потяните цепочку слева.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_2</Data></Cell>
+    <Cell><Data ss:Type="String">С помощью Домино постройте мостики между деревьями.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_3</Data></Cell>
+    <Cell><Data ss:Type="String">Переместите домино к домино на доске с таким же символом или символами.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_4</Data></Cell>
+    <Cell><Data ss:Type="String">Кости могут соприкасаться только одинаковыми половинками.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_5</Data></Cell>
+    <Cell><Data ss:Type="String">Кость может соприкасаться с разным количеством других костей с одинаковым символом.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_6</Data></Cell>
+    <Cell><Data ss:Type="String">Пустые половинки - исключение. Они могут соприкасаться с любыми символами, даже разными одновременно.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_7</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете поворячивать кости, кликая по ним.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_8</Data></Cell>
+    <Cell><Data ss:Type="String">Обращайте внимание на блокирующие кости. Вы не можете разместить там свои.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUTORIAL_DOMINO_9</Data></Cell>
+    <Cell><Data ss:Type="String">Помните, что кости вы можете добавлять только к тем, что уже есть на доске.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CREDITS_IPHONE/IPAD_ADAPTATION</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WALLPAPERS_INFO</Data></Cell>
+    <Cell><Data ss:Type="String">Обои будут сохранены в ваши Документы.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MUSIC_INFO</Data></Cell>
+    <Cell><Data ss:Type="String">Музыка будет сохранена в ваши Документы.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LABORATORY_SPEECH-POSSESSION_TEXT_1</Data></Cell>
+    <Cell><Data ss:Type="String">Ты не можешь помешать неизбежному. Ты станешь одним из нас.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LABORATORY_SPEECH-POSSESSION_TEXT_2</Data></Cell>
+    <Cell><Data ss:Type="String">Присоединяйся.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LAIR_BLOOD_COMM_NO-VOICED</Data></Cell>
+    <Cell><Data ss:Type="String">Что тут произошло?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MG_SARCOPHAGUS-COVER_HELP_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Поворачивайте линзы, пока не получите нужный символ.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000</Data></Cell>
+    <Cell><Data ss:Type="String">- Нажмите на Настройки (A) для изменения размеров экрана, громкости музыки и звуков, режима игры, курсора\n- Нажмите Дополнительно (B) для доступа к дополнениям игры и бонусному приключению\n- Нажмите Добро пожаловать (C) для редактирования профилей игроков</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000A</Data></Cell>
+    <Cell><Data ss:Type="String">- Терминология руководства совпадает с терминологией в игре для описания локаций, предметов инвентаря</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000B</Data></Cell>
+    <Cell><Data ss:Type="String">- Нажмите на Карту, чтобы увидеть доступные действия (Только в режиме Казуальном и Продвинутом) и ваше текущее размещение</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000C</Data></Cell>
+    <Cell><Data ss:Type="String">- Чтобы собрать предметы, обозначенные голубым цветом в Сценах Поиска Предметов (СПП), вы должны произвести дополнительные действия, например скомбинировать предметы и передвинуть то, под чем они спрятаны.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000D</Data></Cell>
+    <Cell><Data ss:Type="String">- Вместо  СПП вы можете сыграть в игру Домино, кликнув на плитку Домино в нижней части экрана слева от СПП</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000E</Data></Cell>
+    <Cell><Data ss:Type="String">- Список предметов случайный; ваш список может отличаться от того, что в Прохождении.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_082</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите закрытую коробку (4O); откройте её ломом (4P)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_083</Data></Cell>
+    <Cell><Data ss:Type="String">- Уберите все предметы (i01-i07); возьмите ДИСК (j)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_006</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите замок (1K); вставьте ВЫКЛЮЧАТЕЛЬ (1L)\n- Поверните его (1M); нажимайте на кнопки в правильной последовательности - (e3, e1, e2, e4)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_007</Data></Cell>
+    <Cell><Data ss:Type="String">- Вставьте ЧАСТЬ МЕХАНИЗМА на место (1N); пройдите мини-игру (1O)</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,217 @@
+<AtlasData>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.InGame.AlbionHotel.Elevator_0.dds">
+			<Texture atlas_height="256" atlas_width="1024" bottom="177" filename="elevator_final_beware_r.png" flipped="true" left="1" right="262" top="1" uni_height="261" uni_width="176"/>
+			<Texture atlas_height="256" atlas_width="1024" bottom="168" filename="elevator_final_beware_l.png" flipped="true" left="264" right="525" top="1" uni_height="261" uni_width="167"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.InGame.AlbionHotel.Orangery_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="474" filename="orangery_tank_mask_local.png" flipped="true" left="1" right="411" top="1" uni_height="410" uni_width="473"/>
+			<Texture atlas_height="512" atlas_width="1024" bottom="464" filename="z_wtare_tank_popup_leaflet.png" flipped="false" left="413" right="795" top="1" uni_height="463" uni_width="382"/>
+			<Texture atlas_height="512" atlas_width="1024" bottom="342" filename="flowers_01_sign-mask.png" flipped="false" left="797" right="1012" top="1" uni_height="341" uni_width="215"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv0_bioshock.Game.InGame.Base.Fountain_0.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="162" filename="zoom_chest_shirt_001.png" flipped="true" left="1" right="163" top="1" uni_height="162" uni_width="161"/>
+			<Texture atlas_height="256" atlas_width="512" bottom="151" filename="zoom_chest_shirt_002.png" flipped="false" left="165" right="325" top="1" uni_height="150" uni_width="160"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv0_bioshock.Game.InGame.Base.Fountain.HO_SmashedClock_0.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="232" filename="smashedclock_hide01a.png" flipped="false" left="1" right="391" top="1" uni_height="231" uni_width="390"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="256" atlas_width="256" filename="rv_Game_rv0_bioshock.Game.InGame.Base.Fountain.HO_SmashedClock_1.dds">
+			<Texture atlas_height="256" atlas_width="256" bottom="150" filename="smashedclock_menu.png" flipped="false" left="1" right="157" top="1" uni_height="149" uni_width="156"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.InGame.Base.Market_2_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="310" filename="market_2_legates_are_watching_local.png" flipped="false" left="1" right="533" top="1" uni_height="309" uni_width="532"/>
+			<Texture atlas_height="512" atlas_width="1024" bottom="249" filename="zoom_posterwall_eden_poster.png" flipped="true" left="535" right="947" top="1" uni_height="412" uni_width="248"/>
+			<Texture atlas_height="512" atlas_width="1024" bottom="421" filename="market_2_poster2.png" flipped="true" left="1" right="147" top="312" uni_height="146" uni_width="109"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="512" atlas_width="512" filename="rv_Game_rv0_bioshock.Game.InGame.Base.Market_2_1.dds">
+			<Texture atlas_height="512" atlas_width="512" bottom="264" filename="zoom_posterwall_poster2.png" flipped="true" left="1" right="387" top="1" uni_height="386" uni_width="263"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="128" filename="rv_Game_rv0_bioshock.Game.InGame.EnlightenmentCenter.Library.MG_Books_0.dds">
+			<Texture atlas_height="128" atlas_width="128" bottom="75" filename="mg_bookcase_typewriter_key.png" flipped="false" left="1" right="79" top="1" uni_height="74" uni_width="78"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="128" filename="rv_Game_rv0_bioshock.Game.InGame.EnlightenmentCenter.ObservationDome.HO_Skeleton_0.dds">
+			<Texture atlas_height="128" atlas_width="128" bottom="76" filename="ho_skeleton_fragile.png" flipped="false" left="1" right="82" top="1" uni_height="75" uni_width="81"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="256" filename="rv_Game_rv0_bioshock.Game.InGame.EnlightenmentCenter.Study_0.dds">
+			<Texture atlas_height="256" atlas_width="256" bottom="148" filename="z_slide_projector_typewritter_key.png" flipped="false" left="1" right="203" top="1" uni_height="147" uni_width="202"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="128" filename="rv_Game_rv0_bioshock.Game.InGame.ResistanceHideout.Ambulatory.HO_Hammock_0.dds">
+			<Texture atlas_height="128" atlas_width="128" bottom="96" filename="ho_hammock_sheriff.png" flipped="false" left="1" right="105" top="1" uni_height="95" uni_width="104"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="512" filename="rv_Game_rv0_bioshock.Game.InGame.ResistanceHideout.Laboratory_0.dds">
+			<Texture atlas_height="512" atlas_width="512" bottom="321" filename="mz_fusebox_01_background.png" flipped="false" left="1" right="321" top="1" uni_height="320" uni_width="320"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.InGame.ResistanceHideout.Warehouse_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="347" filename="z_prism_popup.png" flipped="true" left="1" right="443" top="1" uni_height="442" uni_width="346"/>
+			<Texture atlas_height="512" atlas_width="1024" bottom="294" filename="z_prism_note.png" flipped="true" left="445" right="797" top="1" uni_height="352" uni_width="293"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv0_bioshock.Game.InGame.ResistanceHideout.Warehouse.HO_Supplies_0.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="204" filename="ho_supplies_poster.png" flipped="true" left="1" right="358" top="1" uni_height="357" uni_width="203"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.InGame.SeaBottom.CaveAndWreck_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="481" filename="cave_and_wreck_zoom_window_bkg_mask.png" flipped="false" left="1" right="641" top="1" uni_height="480" uni_width="640"/>
+			<Texture atlas_height="512" atlas_width="1024" bottom="321" filename="cave_and_wreck_minizoom_glowstick_glowstick.png" flipped="false" left="643" right="963" top="1" uni_height="320" uni_width="320"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv0_bioshock.Game.InGame.SeaBottom.CaveAndWreck_1.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="189" filename="cave_and_wreck_zoom_cave_wall_001_robert.png" flipped="false" left="1" right="408" top="1" uni_height="188" uni_width="407"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.InGame.SeaBottom.Wreck_Cockpit_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="481" filename="cockpit_zoom_monitor_export_bkg_tv_frame.png" flipped="false" left="1" right="641" top="1" uni_height="480" uni_width="640"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="128" filename="rv_Game_rv0_bioshock.Game.InGame_CE.HomeSection.Alley_0.dds">
+			<Texture atlas_height="128" atlas_width="128" bottom="108" filename="alleyce_backgroud_local.png" flipped="true" left="1" right="112" top="1" uni_height="111" uni_width="107"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.InGame_CE.IndustrialSection.MedicalLab.MG_Camera_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="304" filename="mg_camera_screen_popup.png" flipped="false" left="1" right="526" top="1" uni_height="303" uni_width="525"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="128" filename="rv_Game_rv0_bioshock.Game.InGame_CE.IndustrialSection.SupervisorRoom_0.dds">
+			<Texture atlas_height="128" atlas_width="128" bottom="68" filename="supervisor_text_local.png" flipped="false" left="1" right="110" top="1" uni_height="67" uni_width="109"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.MainMenu_0.dds">
+			<Texture atlas_height="256" atlas_width="1024" bottom="174" filename="main_menu_preview.png" flipped="false" left="1" right="421" top="1" uni_height="173" uni_width="420"/>
+			<Texture atlas_height="256" atlas_width="1024" bottom="151" filename="menu_bioshock_ios_pac_butt_part01_mouse_over.png" flipped="false" left="423" right="779" top="1" uni_height="150" uni_width="356"/>
+			<Texture atlas_height="256" atlas_width="1024" bottom="151" filename="menu_bioshock_welcome_local.png" flipped="false" left="781" right="936" top="1" uni_height="150" uni_width="155"/>
+			<Texture atlas_height="256" atlas_width="1024" bottom="241" filename="menu_bioshock_ios_quit_ios_local.png" flipped="false" left="1" right="270" top="176" uni_height="65" uni_width="269"/>
+			<Texture atlas_height="256" atlas_width="1024" bottom="236" filename="menu_bioshock_achievements_local.png" flipped="false" left="272" right="514" top="176" uni_height="60" uni_width="242"/>
+			<Texture atlas_height="256" atlas_width="1024" bottom="236" filename="menu_bioshock_extras_local.png" flipped="false" left="516" right="758" top="176" uni_height="60" uni_width="242"/>
+			<Texture atlas_height="256" atlas_width="1024" bottom="236" filename="menu_bioshock_last_chapter_local.png" flipped="false" left="760" right="1002" top="176" uni_height="60" uni_width="242"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv0_bioshock.Game.MainMenu_1.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="73" filename="menu_bioshock_play_local.png" flipped="false" left="1" right="209" top="1" uni_height="72" uni_width="208"/>
+			<Texture atlas_height="256" atlas_width="512" bottom="61" filename="menu_bioshock_quit_local.png" flipped="false" left="211" right="453" top="1" uni_height="60" uni_width="242"/>
+			<Texture atlas_height="256" atlas_width="512" bottom="135" filename="menu_bioshock_more_games_local.png" flipped="false" left="1" right="243" top="75" uni_height="60" uni_width="242"/>
+			<Texture atlas_height="256" atlas_width="512" bottom="135" filename="menu_bioshock_more_info_local.png" flipped="false" left="245" right="487" top="75" uni_height="60" uni_width="242"/>
+			<Texture atlas_height="256" atlas_width="512" bottom="197" filename="menu_bioshock_options_local.png" flipped="false" left="1" right="243" top="137" uni_height="60" uni_width="242"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="1024" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.Project_Dialogs_0.dds">
+			<Texture atlas_height="1024" atlas_width="1024" bottom="769" filename="pac_ios_background_center.png" flipped="false" left="0" partial="1" right="1024" src_height="768" src_left="171" src_top="0" src_width="1024" top="1" uni_height="768" uni_width="1366"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="944" filename="pac_ios_background_left.png" flipped="true" left="1" partial="1" right="769" src_height="768" src_left="0" src_top="0" src_width="173" top="771" uni_height="768" uni_width="1366"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="940" filename="ui_windows_enigmatis_icon.png" flipped="false" left="771" right="975" top="771" uni_height="169" uni_width="204"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="1024" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.Project_Dialogs_1.dds">
+			<Texture atlas_height="1024" atlas_width="1024" bottom="765" filename="menu_bioshock_last_chapter_frame.png" flipped="false" left="1" right="946" top="1" uni_height="764" uni_width="945"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="940" filename="pac_ios_background_right.png" flipped="true" left="1" partial="1" right="769" src_height="768" src_left="1193" src_top="0" src_width="173" top="767" uni_height="768" uni_width="1366"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="935" filename="ui_windows_carnival_icon.png" flipped="false" left="771" right="975" top="767" uni_height="168" uni_width="204"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="1024" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.Project_Dialogs_2.dds">
+			<Texture atlas_height="1024" atlas_width="1024" bottom="487" filename="pac_ios_carnival.png" flipped="true" left="1" right="539" top="1" uni_height="538" uni_width="486"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="169" filename="ui_windows_enigmatis_icon_se.png" flipped="false" left="541" right="745" top="1" uni_height="168" uni_width="204"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="169" filename="ui_windows_nftd_icon_se.png" flipped="false" left="747" right="951" top="1" uni_height="168" uni_width="204"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="339" filename="ui_windows_tm2_icon.png" flipped="false" left="541" right="745" top="171" uni_height="168" uni_width="204"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="339" filename="ui_windows_tm2_icon_se.png" flipped="false" left="747" right="951" top="171" uni_height="168" uni_width="204"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="973" filename="pac_ios_pirates.png" flipped="true" left="1" right="538" top="489" uni_height="537" uni_width="484"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="657" filename="ui_windows_nftd_icon.png" flipped="false" left="540" right="743" top="489" uni_height="168" uni_width="203"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_bioshock.Game.StrategyGuide_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="505" filename="STRATEGY_GUIDE_STEP_000.png" flipped="false" left="1" right="820" top="1" uni_height="525" uni_width="853"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="512" atlas_width="1024" filename="rv_Game_rv0_hud_se_0.dds">
+			<Texture atlas_height="512" atlas_width="1024" bottom="455" filename="diary_mysterious_disappearance_image_01.png" flipped="false" left="1" right="459" top="1" uni_height="454" uni_width="458"/>
+			<Texture atlas_height="512" atlas_width="1024" bottom="314" filename="diary_how_to_get_to_the_shaft_3_01.png" flipped="false" left="461" right="869" top="1" uni_height="313" uni_width="408"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="1024" atlas_width="1024" filename="rv_Game_rv1_bioshock.Game.MainMenu_0.dds">
+			<Texture atlas_height="1024" atlas_width="1024" bottom="179" filename="menu_bioshock_ios_unlock_now_ios_local.png" flipped="false" left="1" right="857" top="1" uni_height="89" uni_width="428"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="311" filename="menu_bioshock_ios_achievements_ios_local.png" flipped="false" left="1" right="565" top="181" uni_height="65" uni_width="282"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="443" filename="menu_bioshock_ios_extras_ios_local.png" flipped="false" left="1" right="541" top="313" uni_height="65" uni_width="270"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="575" filename="menu_bioshock_ios_more_info_ios_local.png" flipped="false" left="1" right="539" top="445" uni_height="65" uni_width="269"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="707" filename="menu_bioshock_ios_options_ios_local.png" flipped="false" left="1" right="539" top="577" uni_height="65" uni_width="269"/>
+			<Texture atlas_height="1024" atlas_width="1024" bottom="847" filename="menu_bioshock_ios_play_ios_local.png" flipped="false" left="1" right="451" top="709" uni_height="69" uni_width="225"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="256" filename="rv_Game_rv3_bioshock.Game.InGame.AlbionHotel.LivingQuarters_0.dds">
+			<Texture atlas_height="128" atlas_width="256" bottom="84" filename="watch_watch_txt2_local.png" flipped="false" left="1" right="131" top="1" uni_height="83" uni_width="130"/>
+			<Texture atlas_height="128" atlas_width="256" bottom="81" filename="watch_watch_txt1_local.png" flipped="false" left="133" right="252" top="1" uni_height="80" uni_width="119"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="128" filename="rv_Game_rv3_bioshock.Game.InGame.Base.Market_1_0.dds">
+			<Texture atlas_height="128" atlas_width="128" bottom="100" filename="minizoom_fin_robert_marceau.png" flipped="false" left="1" right="118" top="1" uni_height="99" uni_width="117"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="64" atlas_width="128" filename="rv_Game_rv3_bioshock.Game.InGame.Base.Market_1_1.dds">
+			<Texture atlas_height="64" atlas_width="128" bottom="57" filename="minizoom_fin_starfish.png" flipped="false" left="1" right="76" top="1" uni_height="56" uni_width="75"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="512" filename="rv_Game_rv3_bioshock.Game.InGame.EnlightenmentCenter.Study.MG_BehindTheBoard_0.dds">
+			<Texture atlas_height="128" atlas_width="512" bottom="94" filename="fsz_behindthboard_extremely_local.png" flipped="false" left="1" right="209" top="1" uni_height="93" uni_width="208"/>
+			<Texture atlas_height="128" atlas_width="512" bottom="88" filename="fsz_behindthboard_fears_local.png" flipped="false" left="211" right="395" top="1" uni_height="87" uni_width="184"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="32" atlas_width="256" filename="rv_Game_rv3_bioshock.Game.InGame.TechnicalSection.Hub_0.dds">
+			<Texture atlas_height="32" atlas_width="256" bottom="28" filename="hub_shaft_local.png" flipped="false" left="1" right="153" top="1" uni_height="27" uni_width="152"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv3_bioshock.Game.InGame.TechnicalSection.Station7_0.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="157" filename="z_trainconsole_shaft_03.png" flipped="false" left="1" right="455" top="1" uni_height="156" uni_width="454"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv3_bioshock.Game.MainMenu_0.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="151" filename="menu_bioshock_ios_pac_butt_part01.png" flipped="false" left="1" right="357" top="1" uni_height="150" uni_width="356"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="128" atlas_width="512" filename="rv_Game_rv3_hud_0.dds">
+			<Texture atlas_height="128" atlas_width="512" bottom="65" filename="ui_skip_local.png" flipped="false" left="1" right="237" top="1" uni_height="32" uni_width="118"/>
+			<Texture atlas_height="128" atlas_width="512" bottom="61" filename="ui_hint_local.png" flipped="false" left="239" right="475" top="1" uni_height="30" uni_width="118"/>
+			<Texture atlas_height="128" atlas_width="512" bottom="127" filename="ui_menu_local.png" flipped="false" left="1" right="237" top="67" uni_height="30" uni_width="118"/>
+			<Texture atlas_height="128" atlas_width="512" bottom="127" filename="ui_guide_local.png" flipped="false" left="239" right="427" top="67" uni_height="30" uni_width="94"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture atlas_height="256" atlas_width="512" filename="rv_Game_rv3_shared_bioshock.Game_0.dds">
+			<Texture atlas_height="256" atlas_width="512" bottom="169" filename="menu_bioshock_betty_noir.png" flipped="false" left="1" right="442" top="1" uni_height="168" uni_width="441"/>
+			<Texture atlas_height="256" atlas_width="512" bottom="209" filename="menu_bioshock_ce_asian_local.png" flipped="false" left="1" right="356" top="171" uni_height="38" uni_width="355"/>
+			<Texture atlas_height="256" atlas_width="512" bottom="249" filename="menu_bioshock_ce_euro_local.png" flipped="false" left="1" right="356" top="211" uni_height="38" uni_width="355"/>
+		</AtlasTexture>
+		<AtlasTexture atlas_height="128" atlas_width="512" filename="rv_Game_rv3_shared_bioshock.Game_1.dds">
+			<Texture atlas_height="128" atlas_width="512" bottom="107" filename="menu_bioshock_abyss.png" flipped="false" left="1" right="370" top="1" uni_height="106" uni_width="369"/>
+		</AtlasTexture>
+	</AtlasPack>
+</AtlasData>

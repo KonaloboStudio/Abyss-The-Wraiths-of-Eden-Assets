@@ -1,0 +1,8 @@
+<animatedImage fps="5" blendframes="0" width="60" height="129"> 
+	<frame source="mz_barrel_Poison_01.png" dx="4" dy="0" width="56" height="15"></frame>
+	<frame source="mz_barrel_Poison_02.png" dx="0" dy="0" width="60" height="29"></frame>
+	<frame source="mz_barrel_Poison_03.png" dx="0" dy="0" width="60" height="65"></frame>
+	<frame source="mz_barrel_Poison_04.png" dx="0" dy="0" width="60" height="77"></frame>
+	<frame source="mz_barrel_Poison_05.png" dx="0" dy="0" width="60" height="129"></frame>
+	<frame source="mz_barrel_Poison_01.png" dx="4" dy="0" width="56" height="15"></frame>
+</animatedImage >

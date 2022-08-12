@@ -1,0 +1,7 @@
+<animatedImage fps="5.00" blendframes="0">
+
+    <frame source="shop_0parcel05.png"></frame>
+    <frame source="shop_0parcel06.png"></frame>
+    <frame source="shop_0parcel07.png"></frame>
+
+</animatedImage>

@@ -1,0 +1,6 @@
+<animatedImage fps="3" blendframes="0" width="134" height="89"> 
+	<frame source="study_lock_EX_key_003.png" dx="7" dy="0" width="74" height="85"></frame>
+	<frame source="study_lock_EX_key_002.png" dx="10" dy="0" width="72" height="89"></frame>
+	<frame source="study_lock_EX_key_001.png" dx="0" dy="0" width="82" height="89"></frame>
+	<frame source="study_lock_EX_key_000.png" dx="0" dy="0" width="134" height="70"></frame>
+</animatedImage >

@@ -1,0 +1,9 @@
+<animatedImage fps="7" blendframes="0" width="640" height="480"> 
+	<frame source="z_fan_2_Fun_2.png" dx="0" dy="0" width="640" height="480"></frame>
+	<frame source="z_fan_2_Fun_3.png" dx="0" dy="0" width="640" height="480"></frame>
+	<frame source="z_fan_2_Fun_4.png" dx="0" dy="0" width="640" height="480"></frame>
+	<frame source="z_fan_2_Fun_5.png" dx="0" dy="0" width="640" height="480"></frame>
+	<frame source="z_fan_2_Fun_6.png" dx="0" dy="0" width="640" height="480"></frame>
+	<frame source="z_fan_2_Fun_7.png" dx="0" dy="0" width="640" height="480"></frame>
+	<frame source="z_fan_2_Fun_8.png" dx="0" dy="0" width="640" height="480"></frame>
+</animatedImage >

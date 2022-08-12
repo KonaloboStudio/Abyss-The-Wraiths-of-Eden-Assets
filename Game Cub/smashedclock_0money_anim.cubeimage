@@ -1,0 +1,10 @@
+<animatedImage fps="6.00" blendframes="0">
+
+    <frame source="smashedclock_0money_open1.png"></frame>
+    <frame source="smashedclock_0money_open2.png"></frame>
+    <frame source="smashedclock_0money_open3.png"></frame>
+    <frame source="smashedclock_0money_open4.png"></frame>
+    <frame source="smashedclock_0money_open5.png"></frame>
+    <frame source="smashedclock_0money_open6.png"></frame>
+
+</animatedImage>

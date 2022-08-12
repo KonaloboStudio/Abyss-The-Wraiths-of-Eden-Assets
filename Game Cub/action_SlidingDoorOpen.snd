@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" FadeInTime="0.0" FadeOutTime="0.0" Pitch="1.000" Volume="1.000" FileName="action_SlidingDoorOpen.wav"></CSampleFile>
+        </CSample>
+</Sound>

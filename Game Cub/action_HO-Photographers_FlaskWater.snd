@@ -1,0 +1,6 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.100" Volume="1.000" 
+FileName="action_HO-Photographers_FlaskWater.wav"></CSampleFile>
+        </CSample>
+</Sound>

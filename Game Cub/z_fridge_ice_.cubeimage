@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="0" width="647" height="651"> 
+	<frame source="z_fridge_ICE_01.png" dx="0" dy="0" width="447" height="335"></frame>
+	<frame source="z_fridge_ICE_02.png" dx="95" dy="111" width="397" height="335"></frame>
+	<frame source="z_fridge_ICE_03.png" dx="188" dy="311" width="459" height="340"></frame>
+</animatedImage >

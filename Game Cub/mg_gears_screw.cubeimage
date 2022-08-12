@@ -1,0 +1,5 @@
+<animatedImage fps="10" blendframes="0" width="593" height="190"> 
+	<frame source="mg_gears_screw_anim_03.png" dx="0" dy="0" width="589" height="190"></frame>
+	<frame source="mg_gears_screw_anim_02.png" dx="0" dy="0" width="589" height="190"></frame>
+	<frame source="mg_gears_screw_anim_01.png" dx="0" dy="0" width="593" height="190"></frame>
+</animatedImage >

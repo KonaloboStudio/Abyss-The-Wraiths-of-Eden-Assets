@@ -1,0 +1,25 @@
+<animatedImage fps="14" blendframes="0" width="260" height="173"> 
+	<frame source="fountain_debris_inbus_07.png" dx="0" dy="50" width="185" height="107"></frame>
+	<frame source="fountain_debris_inbus_06.png" dx="1" dy="6" width="178" height="150"></frame>
+	<frame source="fountain_debris_inbus_05.png" dx="1" dy="0" width="179" height="157"></frame>
+	<frame source="fountain_debris_inbus_04.png" dx="122" dy="14" width="57" height="143"></frame>
+	<frame source="fountain_debris_inbus_03.png" dx="133" dy="40" width="85" height="117"></frame>
+	<frame source="fountain_debris_inbus_02.png" dx="136" dy="90" width="121" height="69"></frame>
+	<frame source="fountain_debris_inbus_01.png" dx="136" dy="114" width="124" height="59"></frame>
+	<frame source="fountain_debris_inbus_04.png" dx="122" dy="14" width="57" height="143"></frame>
+	<frame source="fountain_debris_inbus_07.png" dx="0" dy="50" width="185" height="107"></frame>
+	<frame source="fountain_debris_inbus_06.png" dx="1" dy="6" width="178" height="150"></frame>
+	<frame source="fountain_debris_inbus_05.png" dx="1" dy="0" width="179" height="157"></frame>
+	<frame source="fountain_debris_inbus_04.png" dx="122" dy="14" width="57" height="143"></frame>
+	<frame source="fountain_debris_inbus_03.png" dx="133" dy="40" width="85" height="117"></frame>
+	<frame source="fountain_debris_inbus_02.png" dx="136" dy="90" width="121" height="69"></frame>
+	<frame source="fountain_debris_inbus_01.png" dx="136" dy="114" width="124" height="59"></frame>
+	<frame source="fountain_debris_inbus_04.png" dx="122" dy="14" width="57" height="143"></frame>
+	<frame source="fountain_debris_inbus_07.png" dx="0" dy="50" width="185" height="107"></frame>
+	<frame source="fountain_debris_inbus_06.png" dx="1" dy="6" width="178" height="150"></frame>
+	<frame source="fountain_debris_inbus_05.png" dx="1" dy="0" width="179" height="157"></frame>
+	<frame source="fountain_debris_inbus_04.png" dx="122" dy="14" width="57" height="143"></frame>
+	<frame source="fountain_debris_inbus_03.png" dx="133" dy="40" width="85" height="117"></frame>
+	<frame source="fountain_debris_inbus_02.png" dx="136" dy="90" width="121" height="69"></frame>
+	<frame source="fountain_debris_inbus_01.png" dx="136" dy="114" width="124" height="59"></frame>
+</animatedImage >

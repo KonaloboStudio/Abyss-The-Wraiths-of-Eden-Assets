@@ -1,0 +1,8 @@
+<animatedImage fps="10" blendframes="0" width="191" height="391"> 
+	<frame source="supervisor_door_lab_06.png" dx="0" dy="0" width="191" height="391"></frame>
+	<frame source="supervisor_door_lab_05.png" dx="7" dy="2" width="182" height="389"></frame>
+	<frame source="supervisor_door_lab_04.png" dx="7" dy="2" width="182" height="389"></frame>
+	<frame source="supervisor_door_lab_03.png" dx="7" dy="2" width="182" height="389"></frame>
+	<frame source="supervisor_door_lab_02.png" dx="7" dy="2" width="182" height="389"></frame>
+	<frame source="supervisor_door_lab_01.png" dx="7" dy="2" width="182" height="389"></frame>
+</animatedImage >

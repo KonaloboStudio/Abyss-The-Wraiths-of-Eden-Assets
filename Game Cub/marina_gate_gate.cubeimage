@@ -1,0 +1,6 @@
+<animatedImage fps="8" blendframes="0" width="877" height="640"> 
+	<frame source="marina_gate_gate_001.png" dx="65" dy="0" width="812" height="544"></frame>
+	<frame source="marina_gate_gate_002.png" dx="0" dy="0" width="795" height="616"></frame>
+	<frame source="marina_gate_gate_003.png" dx="118" dy="0" width="687" height="620"></frame>
+	<frame source="marina_gate_gate_004.png" dx="0" dy="0" width="854" height="640"></frame>
+</animatedImage >

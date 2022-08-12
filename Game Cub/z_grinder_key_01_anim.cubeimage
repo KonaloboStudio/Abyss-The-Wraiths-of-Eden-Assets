@@ -1,0 +1,12 @@
+<animatedImage fps="10.00" blendframes="0" randomstart="0">
+
+    <frame source="z_grinder_key_01_anim_01.png"></frame>
+    <frame source="z_grinder_key_01_anim_02.png"></frame>
+    <frame source="z_grinder_key_01_anim_03.png"></frame>
+    <frame source="z_grinder_key_01_anim_04.png"></frame>
+    <frame source="z_grinder_key_01_anim_05.png"></frame>
+    <frame source="z_grinder_key_01_anim_06.png"></frame>
+    <frame source="z_grinder_key_01_anim_07.png"></frame>
+    <frame source="z_grinder_key_01_anim_08.png"></frame>
+
+</animatedImage>

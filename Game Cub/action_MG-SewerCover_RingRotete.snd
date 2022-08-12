@@ -1,0 +1,16 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.600" 
+FileName="action_MG-SewerCover_RingRotete.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.800" 
+FileName="action_MG-SewerCover_RingRotete.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.400" 
+FileName="action_MG-SewerCover_RingRotete.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

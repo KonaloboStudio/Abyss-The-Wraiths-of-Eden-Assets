@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.400" Volume="1.000" FileName="action_FishingNetMoves.wav"></CSampleFile>
+        </CSample>
+</Sound>

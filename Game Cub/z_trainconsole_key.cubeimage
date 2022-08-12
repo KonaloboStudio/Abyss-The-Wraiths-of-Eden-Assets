@@ -1,0 +1,10 @@
+<animatedImage fps="8" blendframes="0" width="71" height="67"> 
+	<frame source="z_trainconsole_Key_1.png" dx="9" dy="5" width="51" height="58"></frame>
+	<frame source="z_trainconsole_Key_2.png" dx="0" dy="20" width="70" height="29"></frame>
+	<frame source="z_trainconsole_Key_3.png" dx="4" dy="11" width="64" height="46"></frame>
+	<frame source="z_trainconsole_Key_4.png" dx="22" dy="1" width="29" height="65"></frame>
+	<frame source="z_trainconsole_Key_5.png" dx="9" dy="3" width="54" height="60"></frame>
+	<frame source="z_trainconsole_Key_6.png" dx="0" dy="14" width="71" height="36"></frame>
+	<frame source="z_trainconsole_Key_7.png" dx="2" dy="7" width="62" height="51"></frame>
+	<frame source="z_trainconsole_Key_8.png" dx="22" dy="0" width="22" height="67"></frame>
+</animatedImage >

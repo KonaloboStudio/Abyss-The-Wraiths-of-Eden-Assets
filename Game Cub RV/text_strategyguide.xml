@@ -1,0 +1,1511 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Me</Author>
+  <LastAuthor>Michał Borecki</LastAuthor>
+  <Created>2000-01-01T06:00:00Z</Created>
+  <LastSaved>2013-02-19T12:41:18Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Arkusz1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="363" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="200.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="500.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000</Data></Cell>
+    <Cell><Data ss:Type="String">- Нажмите на Настройки (A) для изменения размеров экрана, громкости музыки и звуков, режима игры, курсора\n- Нажмите Дополнительно (B) для доступа к дополнениям игры и бонусному приключению\n- Нажмите Добро пожаловать (C) для редактирования профилей игроков</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000A</Data></Cell>
+    <Cell><Data ss:Type="String">- Терминология руководства совпадает с терминологией в игре для описания локаций, предметов инвентаря</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000B</Data></Cell>
+    <Cell><Data ss:Type="String">- Нажмите на Карту, чтобы увидеть доступные действия (Только в режиме Казуальном и Продвинутом) и ваше текущее размещение</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000C</Data></Cell>
+    <Cell><Data ss:Type="String">- Чтобы собрать предметы, обозначенные голубым цветом в Сценах Поиска Предметов (СПП), вы должны произвести дополнительные действия, например скомбинировать предметы и передвинуть то, под чем они спрятаны.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000D</Data></Cell>
+    <Cell><Data ss:Type="String">- Вместо  СПП вы можете сыграть в игру Домино, кликнув на плитку Домино в нижней части экрана слева от СПП</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_000E</Data></Cell>
+    <Cell><Data ss:Type="String">- Список предметов случайный; ваш список может отличаться от того, что в Прохождении.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_001</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; откройте ножом ракушку; с помощью отвёртки отвинтите винты у шлема; включите баллон с кислородом, чтобы получить пузырьки; получите КЛЮЧ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_002</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите камеру (1A); возьмите ПЕРЕКЛЮЧАТЕЛЬ (a)\n- Увеличьте окно (1B); возьмите ЧАСТЬ КЛЮЧА (b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_003</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте замок (1C); используйте КЛЮЧ (1D), добавьте к нему ЧАСТЬ КЛЮЧА (1E)\n- Поверните ключ (1F)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_004</Data></Cell>
+    <Cell><Data ss:Type="String">- Заходите внутрь (1G)\n- Потяните за рычаг (1H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_005</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите ЩИПЦЫ (c)\n- Увеличьте пол (1I); разрежьте решётку (1J), возьмите ЧАСТЬ МЕХАНИЗМА (d)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_006</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите замок (1K); вставьте ВЫКЛЮЧАТЕЛЬ (1L)\n- Поверните его (1M); нажимайте на кнопки в правильной последовательности - (e3, e1, e2, e4)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_007</Data></Cell>
+    <Cell><Data ss:Type="String">- Вставьте ЧАСТЬ МЕХАНИЗМА на место (1N); пройдите мини-игру (1O)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_008</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Кабину (1P); поверните кресло (1Q)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_009</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите КЛЮЧ (f); исследуйте пульт управления (1R); вставьте КЛЮЧ на место (1S), поверните его (1T)\n- Увеличьте монитор (1U); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_009A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь на морское дно</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_010</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте трубу (1V); рассмотрите опору (1W); поверните рукоять (1X)\n- Возьмите РУКОЯТЬ (g) и РУЧКУ (h); возвращайтесь к Крушению (1Y)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_011</Data></Cell>
+    <Cell><Data ss:Type="String">- Используйте РУКОЯТЬ под трубой (1Z); увеличьте опору (1A)(1B)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_012</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте замок (1C) и получите МОЛОТОК (i)\n- Возвращайтесь на морское дно; идите к городским воротам (1D)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_013</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте вентиль (1E)\n- Сбейте коралл МОЛОТКОМ (1F); (1G1, 1G2, 1G3)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_014</Data></Cell>
+    <Cell><Data ss:Type="String">- Откройте ворота, повернув клапан (1H)\n- пройдите в здание (1I); просмотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_015</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте стол (2A); возьмите КАРТУ (a) (специальный предмет), БАТАРЕЙКИ (b)\n- Рассмотрите клавиатуру (2B); вставьте БАТАРЕЙКИ в разъёмы (2C)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_016</Data></Cell>
+    <Cell><Data ss:Type="String">- введите правильный код (4, 9, 3, 2) на клавиатуре\n- Возьмите КАБЕЛЬ (c); идите вперёд к Балкону (2D)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_017</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте панель (2E); используйте КАБЕЛЬ (2F)\n- Пройдите мини-игру: вставьте в разъёмы (d01 - d16) кабели, чтобы получились формы нужного цвета (красный: d04 + d15, зелёный: d06 + d07, жёлтый: d01 + d03, синий: d05 + d10)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_018</Data></Cell>
+    <Cell><Data ss:Type="String">- Потяните за рычаг (2G), затем идите к Фонтану (2H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_019</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите ФОНАРИК (e); подвиньте скамейку (2I) дважды; осмотрите решётку (2J); возьмите ГАЕЧНЫЙ КЛЮЧ (f</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_020</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте фонтан (2K); используйте ГАЕЧНЫЙ КЛЮЧ на крышке (2L); снимите её (2M); возьмите ПЕРЧАТКИ (g)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_021</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте кабель (2N); используйте ПЕРЧАТКИ на разъёме (2O)\n- Идите к Площади (2P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_022</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте СПП в магазине; закатайте затвор; используйте маркер, чтобы сделать пятнистый галстук; используйте ножницы и откройте посылку, получите котелок; расстегните молнию костюма и возьмите носовой платок; вставьте лампочку на место, отмеченное &quot;X&quot;; используйте камень на зеркале, чтобы разбить его; откройте журнал чтобы найти чулки; откройте кейс и найдите кольцо\n- Вы получите КРЮЧОК РЫБОЛОВНЫЙ И ЛЕСКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_022A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь к фонтану</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_023</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте люк (2Q); достаньте КЛЮЧИК с помощью ВЕРЁВКИ С КРЮКОМ (2R)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_023A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_024</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите шкафчик (2S); откройте его КЛЮЧИКОМ (2T); откройте его (2U) и возьмите ТОПОР (h)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_024A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите на Площадь</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_025</Data></Cell>
+    <Cell><Data ss:Type="String">- Вы увидите девочку (2V), следуйте за ней (2W)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_026</Data></Cell>
+    <Cell><Data ss:Type="String">- Рассмотрите её (2X), посмотрите ролик, затем изучите дверь (2Y)\n- Взломайте её топором (2Z) три раза</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_027</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите через дверь (2A) в Фотостудию\n- Поговорите с девочкой (2B), увеличьте стол (2C)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_028</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите НОЖНИЦЫ (i), прочитайте комбинацию сейфа (2D), возьмите РУЧКУ (j)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_029</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">-  Пройдите СПП; уберите ткань; используйте воду и спички, чтобы получить горячую воду; соедините части медальона Инь-Ян; увеличьте негатив; вставьте лампочку в лампу и включите её; откройте конверт ножом; откройте коробку и получите трубку\n- Получите ПИНЦЕТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_030</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте шкаф (2E); вставьте на место ручку (2F), откройте дверцу (2G); увеличьте сейф (2H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_031</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру; введите код с помощью колёсика (k01); &quot;5&quot; по часовой стрелке, &quot;8&quot; против часовой, &quot;0&quot; по часовой, &quot;7&quot; против часовой, &quot;3&quot; против часовой; если вы ошибётесь, придётся начать заново (k02)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_032</Data></Cell>
+    <Cell><Data ss:Type="String">- Потяните за ручку сейфа (2I); возьмите ЧАСТЬ ДЕТОНАТОРА (l), прочитайте записи (2J), возьмите КЛЮЧ (m)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_032A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Коридор</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_033</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте затопленный коридор (2K); возьмите ЧАСТЬ ПАЗЛА 1/2 (n); смотрите ролик, идите назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_033A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь к фонтану</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_034</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте основание (2L); Вставьте КЛЮЧ (2M), поверните его (2N)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_035</Data></Cell>
+    <Cell><Data ss:Type="String">- Вы увидите мишку (2O), разрежьте его НОЖНИЦАМИ (2P); ВОЗЬМИТЕ РУЧКУ ДЕТОНАТОРА (o) и ЧАСТЬ ПАЗЛА 2/2 (p)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_035A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь на Балкон</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_036</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите портфель (2Q); Откройте застёжки (q, r), откройте крышку (2R); прочитайте записи (2S); возьмите ЧАСТЬ КАРТЫ 1/4 (s), вставьте ЧАСТИ ПАЗЛА на место (2T)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_037</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру; перемещайте части пазла (2U)(2V); возьмите КЛЮЧ ОТ ЛИФТА (t)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_037A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите на Площадь</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_038</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите лифт (2W); увеличьте место для авторизации (2X) и используйте КЛЮЧ ОТ ЛИФТА (2Y); смотрите ролик\n- Заходите в Лифт (2Z)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_039</Data></Cell>
+    <Cell><Data ss:Type="String">- Потяните за рычаг (2A)\n- Поезжайте вниз (2B)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_040</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте коробку(3A); прочитайте записку (3B)\n- Найдите ВЕНТИЛЬ (a) и ПРОБКУ (b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_040A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь к Лифту и поезжайте наверх</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_040B</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Фонтану</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_041</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте фонтан (3C) и используйте ВЕНТИЛЬ (3D); поверните его (3E)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_042</Data></Cell>
+    <Cell><Data ss:Type="String">- Смотрите ролик, возьмите МЕДАЛЬОН (c)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_043</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; поместите содовую в холодильник, чтобы охладить её; откройте кассу, чтобы взять наличные; насыпьте в чашку кофе; отодвиньте передник, чтобы получить знак; включите знак; отодвиньте тряпку, чтобы найти радио\n- Получите ШЕСТЕРЁНКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_043A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Подъёмному мосту</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_044</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте механизм (3F); уберите сломанную шестерёнку (3G); используйте ШЕСТЕРЁНКУ (3H)\n- Потяните за рычаг (3I)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_045</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к воротам Отеля (3J)\n- Увеличьте книги (3K); откройте книгу (3L) возьмите ЧАСТЬ КАРТЫ 2/4 (d)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_045A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Фотостудию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_046</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите пробки (3M); замените сломанную ПРОБКУ (3N)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_046A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Коридор</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_047</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте плакаты (3O); оторвите их (3P); используйте ПИНЦЕТ (3Q), получите ЧАСТЬ КАРТЫ 3/4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_048</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте водяной насос (3R); поверните вентиль (3S); смотрите ролик\n- Идите к Дереву (3T)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_049</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; откройте или закройте коробку; откройте бутылку и получите письмо; обрежьте листья секатором, используйте пробку на фильтре, чтобы очистить воду; уберите плавающий лист, чтобы найти рыбу; вставьте кусочек мозаики на место; намажьте клеем цветочный горшок, затем добавьте недостающую часть\n- Получите ПРОВОЛОКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_050</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите папку (3U); откройте её (3V); возьмите ЧАСТЬ КАРТЫ 4/4 (e)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_050A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Коридор, затем в Фотостудию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_051</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте стол (3W); Вставьте КУСОЧКИ КАРТЫ на место (3X)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_052</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру (f01-f04)\n- Возьмите карту (g) </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_052A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Дереву</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_053</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите ЛОПАТУ (h)\n- Идите в Теплицу (3Y)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_054</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите через лабиринт; сначала налево (3Z1), затем направо (3Z2), направо (3Z3), налево (3Z4), направо (3Z5)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_055</Data></Cell>
+    <Cell><Data ss:Type="String">- Отодвиньте большой камень (3A)\n- Изучите землю (3B); используйте лопату (3C); исследуйте коробку (3D)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_056</Data></Cell>
+    <Cell><Data ss:Type="String">- Поместите МЕДАЛЬОН на место (3E)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_057</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру; огонь: солнце, дракон, свеча (i1); вода: капля, рыба, зонтик (i2); воздух: облако, птица, вертолёт (i3); земля: камень, мол, лопата (i4)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_058</Data></Cell>
+    <Cell><Data ss:Type="String">- Прочитайте записку (3F), возьмите ВЗРЫВЧАТКУ (j)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_058A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь к воротам Отеля</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_059</Data></Cell>
+    <Cell><Data ss:Type="String">- Используйте взрывчатку (3G), проволоку (3H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_059A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Подъёмному мосту</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_060</Data></Cell>
+    <Cell><Data ss:Type="String">- используйте на кабеле ЧАСТЬ ДЕТОНАТОРА (3I), РУЧКУ ДЕТОНАТОРА (3J)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_061</Data></Cell>
+    <Cell><Data ss:Type="String">- Нажмите на ручку (3K); смотрите ролик, идите к Воротам (3L)\n- осветите коридор ФОНАРИКОМ (3M)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_061A</Data></Cell>
+    <Cell><Data ss:Type="String">- Смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_062</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите шест (a); используйте его над тележкой (4A); изучите тележку (4B)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_063</Data></Cell>
+    <Cell><Data ss:Type="String">- Соберите нужный предмет (b01 - b05); получите КОВШ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_064</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Соберите КОВШОМ яд (4C)\n- Полейте из ковша лозы (4D)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_065</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Изучите шесты (4E); соберите КОВШОМ яд (4F)\n- Увеличьте Роберта (4G)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_066</Data></Cell>
+    <Cell><Data ss:Type="String">- Посмотрите ролик, используйте КОВШ на лозах (4H)\n- Возьмите у Роберта нож (4I)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_067</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте шесты(4J)\n- Отрежьте НОЖОМ верёвку (4K); возьмите КРАСНУЮ ВЕРЁВКУ (c)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_068</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте колодец слева (4L); используйте КРАСНУЮ ВЕРЁВКУ (4M)\n- Идите вниз (4N)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_069</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте сломанную дверь (4O); посмотрите ролик\n- Осветите всё фонариком (4P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_070</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте лежащее существо (4Q) и разожмите его руку (4R); возьмите КЛЮЧ ОТ СЕЙФА (d)\n- Идите через сломанную дверь (4S)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_071</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите камеру (4T); поговорите с детьми (4U); Вы получите Пульт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_071A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите обратно</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_072</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите стол с радио (4V); откройте кошелёк (4W), возьмите МОНЕТЫ (d) и ЛЕНТУ (e)\n- Исследуйте сломанную панель (4X)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_073</Data></Cell>
+    <Cell><Data ss:Type="String">- Соберите нужный предмет (f01-f05); возьмите КЛЮЧ В ФОРМЕ ЗВЕЗДЫ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_073A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Лифту</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_074</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте коробку (4Y); уберите неработающую панель (4Z), используйте КЛЮЧ В ФОРМЕ ЗВЕЗДЫ (4A)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_074A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Лобби</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_075</Data></Cell>
+    <Cell><Data ss:Type="String">- Смотрите ролик; изучите дверь (4B)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_076</Data></Cell>
+    <Cell><Data ss:Type="String">- Используйте МОНЕТЫ на машине (4C), откройте дверь (4D)\n- Прочитайте записку (4E), возьмите БОЛТОРЕЗ (4F) и возвращайтесь в Лобби</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_077</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь к Подъёмному мосту (4G)\n- Используйте БОЛТОРЕЗ (4H), откройте ворота (4H1)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_077A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь на Площадь</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_078</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте люк (4I); изучите газету (4J), используйте пульт на люке (4K)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_079</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру (g01-g05) </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_080</Data></Cell>
+    <Cell><Data ss:Type="String">- Спускайтесь вниз (4L)\n- Поговорите с мужчиной (4M), затем откройте дверцу шкафа(4N)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_081</Data></Cell>
+    <Cell><Data ss:Type="String">-  Пройдите СПП; откройте банку, обваляйте рыбу в специях; очистите картошку; найдите постер; откройте ящик; откройте ланчбокс\n- Получите ЛОМ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_082</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите закрытую коробку (4O); откройте её ломом (4P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_083</Data></Cell>
+    <Cell><Data ss:Type="String">- Уберите все предметы (i01-i07); возьмите ДИСК (j)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_083A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Лобби</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_084</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте Логана (4Q), смотрите ролик; спускайтесь вниз на Лифте</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_085</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте решётку (4R); изучите точильщик (4S)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_086</Data></Cell>
+    <Cell><Data ss:Type="String">- Используйте ИЗОЛЕНТУ на кабеле (4T); откройте крышку (4U), возьмите сломанный диск (4V); используйте для замены ДИСК (4W); закройте лезвие крышкой (4X)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_087</Data></Cell>
+    <Cell><Data ss:Type="String">- Используйте точильщик (4Y), чтобы разрезать металл\n- Исследуйте сейф (4Z)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_088</Data></Cell>
+    <Cell><Data ss:Type="String">- Откройте сейф КЛЮЧОМ (4A), откройте дверь сейфа (4B); возьмите КЛЮЧ (k), откройте АПТЕЧКУ (4C); возьмите АНТИБИОТИК (l) и БИНТ (m);</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_089</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите детей (4D); забинтуйте порез (4E); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_089A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Лобби; смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_089B</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_090</Data></Cell>
+    <Cell><Data ss:Type="String">- Поговорите с Логаном (4F)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_091</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Общежитие (4G)\n- Рассмотрите Роберта (4H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_092</Data></Cell>
+    <Cell><Data ss:Type="String">- Дайте ему АНТИБИОТИК (4I)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_092A</Data></Cell>
+    <Cell><Data ss:Type="String">- Смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_093</Data></Cell>
+    <Cell><Data ss:Type="String">- Поговорите с Логаном (5A); получите ПРИЗМУ 1/2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_093A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Фотостудию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_094</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите камеру (5B); используйте КЛЮЧ (5C); возьмите ПРИЗМУ 2/2 (a)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_095</Data></Cell>
+    <Cell><Data ss:Type="String">-  Пройдите СПП; уберите ткань; используйте воду и спички, чтобы получить горячую воду; соедините части медальона Инь-Ян; увеличьте негатив; вставьте лампочку в лампу и всключите её; откройте конверт ножом; откройте коробку и получите трубку\n- Получите ПИПЕТКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_095A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Канализацию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_096</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте стол (5D); соберите клей пипеткой (5E), (5F) используйте пипетку на выемках для ПРИЗМ (5G)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_097</Data></Cell>
+    <Cell><Data ss:Type="String">- Вставьте ПРИЗМЫ на место (5H); возьмите МЕХАНИЗМ (b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_097A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Лифт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_098</Data></Cell>
+    <Cell><Data ss:Type="String">- Вставьте МЕХАНИЗМ вместо сломанного (5I); увеличьте его (5J)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_099</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру (c01 - c08), (01-30); правильная последовательность: c01 - 05, c02 - 17, c03 - 10, c04 - 04, c05 - 18, c06 - 02, c07 - 24, c08 - 26 (5K)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_101</Data></Cell>
+    <Cell><Data ss:Type="String">- Потяните за рычаг (5L), затем ещё раз (5M); идите на Ресепшн (5N)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_102</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте панель (5O); возьмите ЛЕЗВИЕ НОЖА (d)\n- Исследуйте предметы в грязи (5P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_103</Data></Cell>
+    <Cell><Data ss:Type="String">- Вставьте лезвие ножа на место (5Q), затем исправьте нож с помощью болта(5R); получите НОЖ (e)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_104</Data></Cell>
+    <Cell><Data ss:Type="String">- разрежьте НОЖОМ фольгу (5S), через дыру (5T) идите в Библиотеку</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_105</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте лестницу (5U); возьмите ЧАСТЬ ТРЕЗУБЦА 1/3 (f)\n- Исследуйте статую (5V); возьмите ТРОСТЬ (g)\n- Идите вниз на Ресепшн (5W)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_106</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте сломанное окно (5X); смотрите ролик, затем ТРОСТЬЮ достаньте КЛЮЧИ (5Y); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_107</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите в Библиотеку; исследуйте дверь (5Z); откройте её КЛЮЧАМИ (5A)\n- Поверните ключ (5B), затем используйте ручку (5C) </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_108</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите через дверь (5D) в Кабинет\n- Потяните за рычаг (5E)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_109</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте доску (5F); (5G) получите КНИГУ (h) и МАГНИТ (i)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_110</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Библиотеку; подвиньте лестницу (5H), увеличьте полку (5I)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_111</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите кнопку от машинки 1/3 (j); поместите КНИГУ на полку (5J)\n- Пройдите мини-игру (k1-k8): (k8, k4, k2, k3, k5, k1, k7, k6), получите КОРОНУ (l)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_111A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите на Ресепшн</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_112</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте рельеф (5K); откройте крышку (5L); МАГНИТОМ вытащите клавишу 2/3 (5M)(m)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_112A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Кабинет</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_113</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте полки (5N); Возьмите КЛАВИШУ 3/3 (n)\n- Увеличьте стол (5O); поместите клавиши на место (5P)\n- Возьмите РУНУ 1/8 (o) и КЛЮЧ ОТ СУНДУКА (p)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_113A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь в Библиотеку</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_114</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте сундук (5Q); откройте его КЛЮЧОМ (5R), откройте сундук (5S)\n- Получите РАКУШКУ (q) и ГЛАЗ (r)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_114A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите на ресепшн</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_115</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте рельеф (5T); используйте ГЛАЗ (5U)\n- Возьмите МЕТАЛЛОДЕТЕКТОР (s)\n- Используйте металлодетектор на грязи (5V), затем изучите дно (5W)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_116</Data></Cell>
+    <Cell><Data ss:Type="String">- Соберите нужный предмет - ПЛОСКОГУБЦЫ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_116A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Кабинет</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_117</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите деревянную коробку (5X); вытащите гвозди (5Y), откройте коробку (5Z)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_118</Data></Cell>
+    <Cell><Data ss:Type="String">- Соберите кусочки жетона рыбы  (u01 - u05); поставьте их на место (v01 - v05); Получите Жетон Рыбы (w)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_118A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Библиотеку</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_119</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте столб (5A); поместите ЖЕТОН РЫБЫ на место(5B)\n- Поднимитесь под купол (5C)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_120</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте аквариум (5D); уберите грязь (5E), возьмите СЕТЬ (x)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_121</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; полейте цветы; соберите ископаемое; поверните зеркало; откройте клетку с лобстером; откройте ключом коробку и получите бутылочку с алюминием; насадите червяка на крюк\n- Получите ЧАСТЬ ТРЕЗУБЦА 2/3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_234</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Библиотеку (5F), затем в Кабинет</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_122</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте полку (5G); с помощью СЕТИ достаньте ЧАСТЬ ТРЕЗУБЦА 3/3 (5H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_123</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Библиотеку; исследуйте статую (5I); поместите ЧАСТИ ТРЕЗУБЦА на место (5J),дайте РАКОВИНУ Посейдону в руку (5K) и КОРОНУ - на голову (5L)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_124</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте секретную комнату (5M)\n- Возьмите РУНУ 2/8 (y)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_125</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите записи (5N); возьмите СЛАЙД (z)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_125A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Библиотеку</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_125B</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Кабинет</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_126</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте полку (5O); вставьте СЛАЙД в проектор (5P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_127</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте доску (5Q); переместите  5 магнитов (a01 - a05)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_128</Data></Cell>
+    <Cell><Data ss:Type="String">- возьмите НОЖНИЦЫ (b); идите в Кабинет</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_128A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите к Дереву</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_129</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Исследуйте дверь парника (5R); НОЖНИЦАМИ срежьте плющ (5S)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_130</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Пройдите мини-игру (c01 - c13) (d)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_132</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в парник (5T)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_133</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте пульт управления (5U); смотрите ролик; возьмите РАСТВОРИТЕЛЬ (e); идите в парник\n- Исследуйте холодильник (5V); откройте его дверь (5W); возьмите ПОЛКУ (f); идите назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_134</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте насос (5X)\n- Откройте водяной фильтр (5Y); используйте РАСВОРИТЕЛЬ на ключе (5Z), используйте полку (5A); вы получите КЛЮЧ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_134A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_135</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; откройте или закройте коробку; достаньте письмо из бутылки; достаньте пробку из-под листа, используйте пробку на фильтре, чтобы очистить воду; уберите плавающий листок, чтобы поймать рыбку; добавьте часть мозаики к мозаике; с помощью клея соберите горшок\n- Вы получите КОРУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_135A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь к фонтану</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_136</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте сломанный фонтан (5B); используйте КЛЮЧ на фильтре (5C); освободите ФИЛЬТР (g)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_137</Data></Cell>
+    <Cell><Data ss:Type="String">-  Пройдите СПП; поместите содовую в холодильник, чтобы охладить её; откройте кассу, чтобы взять наличные; насыпьте в чашку кофе; отодвиньте передник, чтобы получить знак; включите знак; отодвиньте тряпку, чтобы найти радио\n- Вы получите ТЕРМОПАКЕТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_137A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь в парник</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_138</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте сломанный фильтр (5D); используйте ФИЛЬТР (5E)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_139</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте холодильник (5F); поместите лёд в ТЕРМОПАКЕТ (5G); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_140</Data></Cell>
+    <Cell><Data ss:Type="String">- Отодвиньте руку человека с запиской (5H); возьмите РУЧКУ (h) и РУНУ 3/8 (i); прочитайте записку (5I)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_141</Data></Cell>
+    <Cell><Data ss:Type="String">- получите ЧАСТЬ ДРЕЛИ (j)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_141A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в парник</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_141B</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь в парник</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_142</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте стойку (5J); используйте ЧАСТЬ ДРЕЛИ на дрели (5K); возьмите ДРЕЛЬ(k)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_143</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте Дерево (5L); используйте дрель на дереве (5M); возьмите ёмкость со смолой (l), затем возьмите ОРЕХИ (m)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_144</Data></Cell>
+    <Cell><Data ss:Type="String">- Поговорите с девочкой (5N)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_144A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь в парник</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_145</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте панель управления (5O); насыпьте ОРЕХИ в миску (5P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_146</Data></Cell>
+    <Cell><Data ss:Type="String">- Рассмотрите белку (5Q); возьмите ЖЕТОН БЕЛКИ (n)\n- Исследуйте чемодан (5R); поместите на место ЖЕТОН БЕЛКИ (5S); нажмите на кнопку (5T); возьмите РУЧКУ (o)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_147</Data></Cell>
+    <Cell><Data ss:Type="String">- Поместите РУЧКИ на место (5U), (5V); поменяйте ручки (p01 - p03) на ВЕТЕР/ДОЖДЬ/НОЧЬ (p01: вкл, p02: вкл, p03: вкл); идите в Парник</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_148</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите цветы (5W); возьмите ЦВЕТОК (q)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_148A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите на Ресепшн</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_148B</Data></Cell>
+    <Cell><Data ss:Type="String">- Смотрите ролик, Идите в Кабинет</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_149</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте доску (5X); поставьте ёмкость со смолой на стол (5Y), положите кору (5Z) и ЦВЕТОК на свои места (5A)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_150</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру; зажгите спичками (r01) свечу (r02), затем используйте долото (r03) на сухой смоле (r02); положите смолу (r02) в ступку (r04), измельчите её (r04); возьмите ложку (r05), часть смолы (r04) и положите её в миску (r06); добавьте ещё две части смолы (r04, r04); уберите ложку (r05)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_152</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите кору (r07), измельчите её (r08), возьмите ложку (r05) и добавьте часть (r08) в миску; добавьте ещё одну часть коры (r08); возьмите пинцет (r09) и добавьте лепестки цветка (r10) в миску; повторите ещё раз (r10)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_154</Data></Cell>
+    <Cell><Data ss:Type="String">- Смешайте ингредиенты в миске (r06), затем поместите содержимое в кадило (r11)\n- возьмите ЛАДАН (s)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_155</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите на Ресепшн (5B); смотрите ролик\n- Увеличьте раздавленную коробку (5C); возьмите горючее для зажигалки (t) и ингредиент для вспышки 1/2 (u)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_155A</Data></Cell>
+    <Cell><Data ss:Type="String">- Поднимайтесь наверх</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_156</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; полейте цветы; соберите ископаемое; поверните зеркало; откройте клетку с лобстером; откройте ключом коробку и получите бутылочку с алюминием; насадите червяка на крюк\n- Получите ИНГРЕДИЕНТ ДЛЯ ВСПЫШКИ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_157</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте разбитый аквариум (5D); используйте горючее на зажигалке (5E); получите ЗАЖИГАЛКУ (v)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_157A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь в Библиотеку</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_158</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте секретную комнату (5F); исследуйте старую вспышку (5G)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_159</Data></Cell>
+    <Cell><Data ss:Type="String">- Используйте на неё ингредиенты для вспышки (5H); получите ВСПЫШКУ (w); возвращайтесь</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_160</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Ослепите осьминога (5I); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_160A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Возвращайтесь в Общежитие</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_161</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Исследуйте Роберта на кровати (5J); смотрите ролик\n- Дайте Роберту ЛАДАН (5K); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_162</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Канализацию\n- Поговорите с Логаном (6A), зачем исследуйте шкаф (6B)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_163</Data></Cell>
+    <Cell><Data ss:Type="String">-  Пройдите СПП; откройте банку, обваляйте рыбу в специях; очистите картошку; найдите постер; откройте ящик; откройте ланчбокс\n- Получите ЗОЛОТОЙ КЛЮЧ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_163A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Подъёмному мосту</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_164</Data></Cell>
+    <Cell><Data ss:Type="String">- Поговорите с Логаном (6C); после ролика вы получите КЛЮЧ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_164A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Канализацию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_165</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте люк (6D); вставьте КЛЮЧ (6E)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_166</Data></Cell>
+    <Cell><Data ss:Type="String">- Откройте люк, идите в Лабораторию (6F), (6G)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_167</Data></Cell>
+    <Cell><Data ss:Type="String">- исследуйте пневматический подъёмник (6H); возьмите болт (6I); возьмите НАСОС (a)\n- Идите в канализацию (6J)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_167A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Ресепшн через Площадь и Лифт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_168</Data></Cell>
+    <Cell><Data ss:Type="String">- Рассмотрите затвор (6K); поместите НАСОС под задвижку (6L), затем закачайте насосом воздух (6M); соберите КАНИСТРУ С ТОПЛИВОМ (b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_169</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите через ворота к Станции (6N)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_170</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите затонувшую технику (6O); возьмите СНАСТИ (c)\n- Осмотрите брус (6P); возьмите СКОБЫ (d)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_170A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите обратно к Ресепшн</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_171</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте в СПП на окне; добавьте рычаг на подъёмник и получите якорь; откройте цилиндр  ломом; дотроньтесь до кальмара, чтобы добыть чернила; добавьте шлем от подводного костюма к остальному снаряжению и возьмите готовый костюм\n- Вы добудете КРЮК С ВЕРЁВКОЙ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_172</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Осмотрите полки (6Q); используйте скобы на кандалы (6R); возьмите КАНДАЛЫ (e)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_172A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Станции</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_173</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите цепь с красной лентой (6S); воспользуйтесь ДУЖКОЙ (6T), Затем прикрепите СНАСТИ к дужке (6U); примените  КРЮК С ВЕРЁВКОЙ  на подъёмнике (6V)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_174</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите брус (6W); прикрепите крюк (6X) к бруску; поднимите брусок верёвкой (6Y)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_175</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите защитный кожух (6Z); потяните вентиль (6A)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_176</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите механизм (6B); откройте коробку (6C) и патрубок подвода горючего (6D); возьмите КЛЮЧИ ОТ ПОЕЗДА (); используйте КАНИСТРУ ГОРЮЧЕГО (6E); просмотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_177</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Осмотрите телегу (6F); используйте КЛЮЧ ОТ ПОЕЗДА (6G); поверните ключ (6H), потяните рычаг (6I)\n- Идите к Третьему Валу (6J)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_178</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите ящики (6K); возьмите НОЖОВКУ (f)\n- Осмотрите закрытый ящик(6L); примените НОЖОВКУ к замку (6M), откиньте крышку (6N); возьмите ВСПЫШКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_179</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите клетку лифта (6O); прикрепите цепь к лифту (6P); используйте ВСПЫШКУ в тёмной дыре (6Q); рассмотрите шахту (6R); возьмите КОЛЕСО (h)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_180</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьтесь к ящикам (6S); примените КОЛЕСО к фургону (6T), используйте его (6U)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_181</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите КРЮК ЛОДКИ (i); просмотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_182</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте клетку лифта (6V)\n- Изучите шахту (6W); используйте КРЮК на ЦЕПИ (j) чтобы достать её</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_183</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите крюк (6X); подвесьте ЦЕПЬ (6Y)\n- Прикрепите ЦЕПЬ (6Z) к лифту</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_184</Data></Cell>
+    <Cell><Data ss:Type="String">- Спуститесь к Раскопкам (6A)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_185</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите освещенный саркофаг (6B); воспользуйтесь переключателем (6C); прочитайте записку в руке человека (6D); раскройте ладонь (6E); возьмите РУНУ 4/8 (k) и вернитесь</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_186</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Сыграйте СПП; найдите перчатки и используйте их, чтобы взять сломанную лампочку; ударьте по стене  и найдите змею; вставьте 2 недостающие ступени в лестнице; воспользуйтесь ломом , чтобы открыть клеть\n- Получите СКРЕБОК</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_187</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите чашу (6F); возьмите КУЛОН СОЛНЦА (l)\n- Приблизьте саркофаг (6G); используйте скребок на грязи (6H) три раза</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_188</Data></Cell>
+    <Cell><Data ss:Type="String">- Поместите КУЛОН СОЛНЦА в разъём (6I); возьмите СЕРЕБРЯНУЮ СТРЕЛКУ (m) и БИНОКЛЬ (n)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_189</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите крышку саркофага (6J); используйте БИНОКЛЬ (6K)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_190</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте Мини-игру; переключите линзы (o01 - o02) пока не увидите жёлтый символ целиком (p01), повторите с синим символом (p02); поместите  токен (6L) в слот (6M); возьмите сломанный КИНЖАЛ (q), РУНУ 5/8 (r) и ЧИСТОЕ СЕРЕБРО (s)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_192</Data></Cell>
+    <Cell><Data ss:Type="String">- Поднимитесь к Третьему Валу (6N)\n- Осмотрите киоск (6O); используйте СЛОМАННЫЙ КИНЖАЛ, чтобы поднять окно (6P); соберите ВОДУ (t) и прочитайте записку (6Q)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_192A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Раскопкам</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_193</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте СПП; найдите перчатки и используйте их, чтобы достать сломанную лампочку ; используйте киркомотыгу на стене пока не увидите змею; добавьте 2 недостающие ступени к лестнице; используйте лом , чтобы открыть клеть \n- Вы получите ЦИЛИНДР МУЗЫКАЛЬНОЙ ШКАТУЛКИ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_194</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте миску (6R); используйте ЧИСТОЕ СЕРЕБРО и ВОДУ (6S), используйте ложку (6T)\n- Соберите КРАСКУ (u); затем соберите КЛЮЧ от МУЗЫКАЛЬНОЙ ШКАТУЛКИ (v)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_194A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Третьему Валу</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_195</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте киоск (6U); рассмотрите музыкальную шкатулку (6V); используйте ЦИЛИНДР МУЗЫКАЛЬНОЙ ШКАТУЛКИ и КЛЮЧ МУЗЫКАЛЬНОЙ ШКАТУЛКИ (6W)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_196</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте Мини-игру; разместите тарелки (w01 - w06) сформировав последовательную картинку(x01); соберите РУНУ 6/8 (y), прочтите заметку (6X); возьмите ТОКЕН ГЛОБУСА (z)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_196A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Ресепшн через Станцию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_197</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте СПП на окне; добавьте рукоятку к подъёмнику и примените её, чтобы получить якорь; откройте баррель ломом; дотроньтесь до кальмара, чтобы получить чернила; соберите водолазный костюм, добавив к нему шлем\n- Вы получите ВОСК</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_197A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к пункту Наблюдения через Библиотеку</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_198</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите глобус (6Y); поместите ТОКЕН ГЛОБУСА в его слот (6Z)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_199</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте мини-игру; проведите подлодку через водные пути, не проходя через один и тот же путь дважды.  (a01 - a20); если допускаете ошибку, игра начнётся заново</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_200</Data></Cell>
+    <Cell><Data ss:Type="String">- Прочитайте записку (6A); Возьмите ФОРМУ для СВЕЧЕЙ (b), РУНУ 7/8 (c) и ТОКЕН ХОЛОДИЛЬНИКА (d)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_200A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в коллектор через библиотеку, Ресепшн, Лифт, площадь</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_201</Data></Cell>
+    <Cell><Data ss:Type="String">- Поговорите с девочкой (6B)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_201A</Data></Cell>
+    <Cell><Data ss:Type="String">- Спуститесь в Лабораторию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_202</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте металлическую коробку (6C); используйте ЖЕТОН ХОЛОДИЛЬНИКА (6D), откройте коробку (6E); прочитайте предостережение (6F), возьмите ФИГУРКУ ДРАКОНА €</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_202A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите в Спальню через Коллектор</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_203</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Изучите красную коробку (6G); поместите ФИГУРКУ ДРАКОНА в слот (6H); поверните драконов (6I); соберите ПИГМЕНТЫ (f) и РУНЫ 8/8 (g)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_204</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте СПП в гамаке; снимите покрывала; ластиком сделайте из дракона двуглавого; поместите жёлтую и красную краски на палитру и смешайте  их кистью, получите оранжевую краску; добавьте три мелка к коробке мелков\n- Вы получите ТЕРМОПАКЕТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_204A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в САД через  Коллектор, Площадь, Коридор, Дерево</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_205</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте холодильник (6J); используйте ТЕРМОПАКЕТ  на кусковой лёд (6K);Вы получите ПАКЕТ СО ЛЬДОМ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_205A</Data></Cell>
+    <Cell><Data ss:Type="String">- идите в Лабораторию через Дерево, Коридор, Площадь, Коллектор</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_206</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите коробку с химикатами (6L); используйте ПАКЕТ СО ЛЬДОМ (6M)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_207</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте коробку предохранителя вентилятора (6N); откройте крышку (6O); включите фен (6P)\n- Изучите Стол Лаборатории (6Q); поместите ВОСК на стол (6R), затем поместите ФОРМУ ДЛЯ СВЕЧЕЙ на стенд (6S), затем на стол положите ПИГМЕНТЫ (6T)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_208</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте Мини-игру; добавьте свечи (h01) в котёл (h02); растопите свечи (h02), добавьте воск (h02) в формы (h03); добавьте жёлтый пигмент (h05) в миску (h07), используйте миску (h07) в бюретку (h09), используйте бюретку (h09) в первой форме (h10)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_210</Data></Cell>
+    <Cell><Data ss:Type="String">- Добавьте красный пигмент (h04) в миску (h07), используйте миску (h07) на семи частях пробирки (h08), затем используйте пробирки (h08) во второй форме (h11); возьмите миску (h07) и высыпьте краску (h14)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_212</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Добавьте жёлтый пигмент (h05) в миску (h07), добавьте синий(h06) в миску(h07); используйте миску (h07) на семь частей пробирки (h08), затем используйте пробирку (h08) на пяти частях пробирки (h09); используйте семь частей пробирки (h08) на третьей форме (h12); возьмите миску (h07) и вылейте краску (h14); возьмите пробирку (h09) и вылейте краску (h14)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_215</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Добавьте красный пигмент (h04) в миску (h07), добавьте синий пигмент (h06) туда же (h07); используйте миску (h07) на пять частей пробирки (h09), затем используйте пробирку на семь частей пробирки (h08); используйте миску (h07) на пять частей пробирки (h09), затем используйте пробирку (h09) на семь частей пробирки (h08); используйте пять частей пробирки (h09) на последней форме (h13)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_218</Data></Cell>
+    <Cell><Data ss:Type="String">- Соберите МИСТИЧЕСКИЕ СВЕЧИ (i)\n- Поднимитесь по люку (6U); посмотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_219</Data></Cell>
+    <Cell><Data ss:Type="String">- Подвиньте металлическую коробку (6V), осмотрите  канализационный люк(6W)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_220</Data></Cell>
+    <Cell><Data ss:Type="String">- Потяните рычаги (6X); соберите МАЛЫЙ ПРЕДОХРАНИТЕЛЬ (j), КУВАЛДУ (k) и СТАЛЬНОЙ ШНУР (l)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_221</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите лестницу (6Y); посмотрите ролик; используйте СТАЛЬНОЙ ШНУР на решётке (6Z); назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_222</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите ВЕНТИЛЯТОР (6A); прицепите к нему верёвку (6B); Осмотрите блок предохранителя (6C); используйте МАЛЫЙ ПРЕДОХРАНИТЕЛЬ вместо сломанного (6D); включите фен (6E); смотрите ролик\n- поднимитесь наверх в Коллектор (6F), идите в Спальню; просмотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_223</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте СПП в гамаке; снимите покрывала; ластиком сделайте из дракона двухглавого; поместите жёлтую и красную краски на палитру и смешайте  их кистью, получите оранжевую краску; добавьте три мелка к коробке мелков\n- Вы получите ТЕРМОПАКЕТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_224</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите трещину в стене (6G); примените РУЧКУ КУВАЛДЫ к бойку кувалды (6H), вставьте БОЛТ КУВАЛДЫ (6I)\n- Возьмите КУВАЛДУ (m)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_224A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите к Третьему Валу через Канализацию, Площадь, Лифт, Ресепшн и Станцию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_225</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите настенные ящики (6J); используйте КУВАЛДУ (6K)\n- Идите к Храму через дыру (6L)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_226</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите Статую  (7A); используйте КРАСКУ на полу (7B), затем используйте МИСТИЧЕСКИЕ СВЕЧИ и РУНЫ на подготовленной зоне (7C)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_227</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте Мини-игру; Нажмите на Руны и Фигурку (a01 - a09) пока все предметы не станут светиться.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_227A</Data></Cell>
+    <Cell><Data ss:Type="String">- Смотрите ролик;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_228</Data></Cell>
+    <Cell><Data ss:Type="String">-  Используйте СЕРЕБРЯНУЮ СТРЕЛКУ на символах (7D); смотрите ролик\n- Идите назад к Третьему Валу (7E), Затем идите в Холл через Станцию, Ресепшн, Лифт, Подъёмный Мост</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_229</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите дверь на пристани справа (7F)\n- Используйте ключ скипетр (7G); идите к Пристани (7H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_230</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Сыграйте СПП  на люке; используйте скребок, чтобы убрать коралл; чтобы взять хирургические инструменты, найдите три недостающих предмета и добавьте их к остальным на подходящие места; используйте ключи, чтобы открыть набор первой помощи\n- Вы получите ПУСТУЮ КОЛБУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_231</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте насос (7I); осмотрите протёкшую батарейку (7J); используйте ПУСТУЮ КОЛБУ и соберите капающую кислоту (7K); вы получите КОЛБУ с КИСЛОТОЙ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_232</Data></Cell>
+    <Cell><Data ss:Type="String">- Осмотрите закрытую клетку (7L); используйте КОЛБУ С КИСЛОТОЙ на ржавой цепи (7M), откройте дверь клетки (7N); возьмите ТОПЛИВНЫЙ ШЛАНГ (b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_233</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Приблизьте НАСОС (7O); используйте ТОПЛИВНЫЙ ШЛАНГ (7P)\n- Возьмите шланг (7Q) для подсоединения к выключателю\n- Приблизьте насос (7R) и поверните вентиль (7S)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_STEP_233A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Посмотрите видео</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_001</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Возьмите БЕЙСБОЛЬНУЮ БИТУ (a); сдвиньте занавески (1A)\n- Приблизьте раковину (1B); включите свет (1C)\n- Используйте БЕЙСБОЛЬНУЮ БИТУ на лампочку (1D); подберите КЛЮЧ ОТ ДНЕВНИКА (b) и КЛЕЙ (c)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_002</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Осмотрите стул (1E); возьмите МИШКУ (d); склейте ножку (1F), поместите ножку (1G) на намазанное клеем место (1H)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_003</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Приблизьте вентиляционное отверстие (1I); возьмите ТРЯПКУ(e)\n- Приблизьте раковину (1J); используйте ТРЯПКУ на зеркале, (1K) чтобы взять ОСКОЛОК (f)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_004</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте выдвижной ящик (1L); осмотрите фото (1M), затем используйте ОСКОЛОК, чтобы распороть карман (1N); возьмите МАЛЕНЬКУЮ ОТВЁРТКУ (g)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_005</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте вентилляционное отверстие (1O); используйте МАЛЕНЬКУЮ ОТВЁРТКУ на покрывале (1P); приблизьте металлическую коробочку (1Q), затем распорите покрывало (1R)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_006</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте СПП в колыбели; отодвиньте покрывало; откройте ящик, чтобы получить щипцы; поставьте бутылку  молока рядом с нагревателем, чтобы получить горячее молоко; добавьте пуговицы к кукле, чтобы получить тряпичную куклу;\n- Вы получите ЩИПЦЫ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_007</Data></Cell>
+    <Cell><Data ss:Type="String">- Приблизьте вентиляционное отверстие (1S), затем металлическую коробочку (1T); используйте ЩИПЦЫ и разрежьте кабеля (1U)\n- Осмотрите дневник (1V); используйте КЛЮЧ  ОТ ДНЕВНИКА  (1W) и активируйте мини-игру</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_008</Data></Cell>
+    <Cell><Data ss:Type="String">- Сыграйте мини-игру: Двигайте луны (h01 - h08) пока не выставите их в правильном порядке цикла (i)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_008A</Data></Cell>
+    <Cell><Data ss:Type="String">- Посмотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_009</Data></Cell>
+    <Cell><Data ss:Type="String">- Посмотрите ролик\n- Идите вперёд к Служебному Входу (2A)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_010</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Сыграйте мини-игру у инвалидного кресла; снимите покрывало; откройте коробку для ланча и возьмите сэндвич; положите сыр у мышиной норки и выманите мышь; добавьте два сверла в набор и возьмите его; используйте сухую тряпку и намочите её в ведре;\n- Вы получите КУВАЛДУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_010A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите обратно к Аллее</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_011</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Осмотрите бетономешалку (2B); используйте КУВАЛДУ и согните бетонную сваю (2C); получите КРЮК (a)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_011A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите к  Служебному Входу</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_012</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Используйте КРЮК на лестнице (2D)\n- Поднимитесь на Крышу (2E)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_013</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте леса (2F); возьмите РЫЧАГ (b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_013A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите ко входу для персонала, затем в Аллею</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_014</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте подъёмник (2G); откройте крышку (2H), вставьте РЫЧАГ (2I)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_015</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Пройдите мини-игру (c01, c02)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_016</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте платформу (2J); возьмите ВЕРЁВКУ (d); идите назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_016A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите ко входу для персонала ,затем на Крышу</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_017</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте леса (2K); соедините ВЕРЁВКУ с крюком(2L) </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_018</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите крышу (2M); посмотрите ролик; возьмите гвоздь (2N) и используйте его на окне (2O); уберите панель (2P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_019</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте документы (2Q); возьмите их с помощью КРЮКА С ВЕРЁВКОЙ (2R), затем возьмите ФОНАРИК (e)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_019A</Data></Cell>
+    <Cell><Data ss:Type="String">- Спускайтесь вниз</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_020</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; снимите одеяло; откройте ланчбокс, чтобы получить сэндвич; выманите мышь сыром; положите насадки в коробку; намочите тряпку в ведре;\n- Получите ГАЗОВЫЙ ЦИЛИНДР</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_020A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите в Аллею</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_021</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте платформу (2S); изучите факел (2T) используйте ГАЗОВЫЙ ЦИЛИНДР (2U); возьмите ФАКЕЛ (f)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_021A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите ко входу для персонала</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_022</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Увеличьте ящики (2V); отодвиньте ящики (2W), отодвиньте нары (2X)\n- Используйте факел (2Y); используйте ФОНАРИК (2Z); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_023</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; уберите покрывало; с помощью ролика покрасьте планку; соедините части пылесоса; вытащите гвоздь плоскогубцами; откройте часы, чтобы добыть циферблат;\n- Получите КЕРОСИН</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_024</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте замок (3A); откройте отверстие для ключа (3B); возьмите ХОЛОДНЫЙ КЛЮЧ (a)\n- Вылейте КЕРОСИН в горелку (3C); зажгите горелку (3D) спичками (3E); погрейте КЛЮЧ (3F) </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_025</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте электросчётчик (3G); используйте ГОРЯЧИЙ КЛЮЧ (3H); поверните его (3I), откройте коробку (3J)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_026</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру -  (b01 - b04) соедините лампочки с источником энергии (c01)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_026A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в комнату наблюдения</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_028</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте панели (3K); посмотрите ролик; прочтите записку (3L), возьмите ID (d); идите назад</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_029</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте дверной замок (3M); используйте ID (3N); поверните ручку (3O)\n- Заходите в комнату (3P)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_030</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите бойлер (3Q); возьмите ЭЛЕКТРОНАГРЕВАТЕЛЬ (e)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_030A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь в Холодную Комнату</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_031</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте замёрзшую коробку (3R); используйте ЭЛЕКТРОНАГРЕВАТЕЛЬ (3S); получите НОЖ (f)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_032</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; уберите покрывало; с помощью ролика покрасьте планку; соедините части пылесоса; вытащите гвоздь плоскогубцами; откройте часы, чтобы добыть циферблат;\n- Получите ЧЕРНИЛА</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_032A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в комнату с бойлером</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_033</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте бойлер (3T); откройте упаковку НОЖОМ (3U) (3V); возьмите БУМАГУ (g)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_034</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте факс (3W); залейте чернила в картридж (3X) и вставьте бумагу (3Y); прочитайте записку (3Z)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_035</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; соберите ручку из частей; заточите карандаш; откройте деревянную коробку ключом; раскрасьте звезду красным фломастером;\n- Получите КРАСНУЮ КАРТУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_035A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь в Комнату Наблюдения</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_036</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте панель управления (3B); исследуйте клавиатуру (3C); вставьте КРАСНУЮ КАРТУ (3D), напечатайте код: 35174\n- Идите в Лабораторию (3E)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_037</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте стол (3F); прочитайте записку (3G), возьмите кнопку от чемодана (h) и СТЕКЛОРЕЗ (i); идите обратно</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_038</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; положите мел в ступку, затем измельчите его; положите табак в трубку и зажгите его; откройте клетку с крысой; вытащите внутренности манекена\n- Получите КОНТЕЙНЕР ДЛЯ ВОДЫ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_038A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в комнату с сейфом</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_039</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте бойлер (3H); поставьте на место КОНТЕЙНЕР ДЛЯ ВОДЫ (3I) и получите ХОЛОДНУЮ ВОДУ (j)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_040</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; соберите ручку из частей; заточите карандаш; откройте деревянную коробку ключом; раскрасьте звезду красным фломастером;\n- Получите СКРЕПКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_040A</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Идите в Холодную комнату</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_041</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Исследуйте чемодан (3J); поместите кнопку на место (3K)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_042</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">- Пройдите мини-игру: поместите жетоны в квадраты; правильный порядок: левый квадрат – 276-951-438, правый квадрат 507-642-183</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_043</Data></Cell>
+    <Cell><Data ss:Type="String">- Возьмите ПУДРУ (l)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_043A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Лабораторию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_044</Data></Cell>
+    <Cell><Data ss:Type="String">- Увеличьте стол (3L); исследуйте заблокированную кнопку (3M); используйте скрепку (3N)\n- откройте микроволновую печь (3O); поставьте внутрь ХОЛОДНУЮ ВОДУ (3P); смотрите ролик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_045</Data></Cell>
+    <Cell><Data ss:Type="String">- Добавьте ПУДРУ в миску (3Q), затем ГОРЯЧУЮ ВОДУ (3R); смешайте пасту (3S); получите ПАСТУ (m)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_045A</Data></Cell>
+    <Cell><Data ss:Type="String">- Возвращайтесь к сейфу</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_046</Data></Cell>
+    <Cell><Data ss:Type="String">- Изучите сейф (3T); используйте ПАСТУ (3U); откройте сейф (3V); возьмите ПРИСПОСОБЛЕНИЕ ДЛЯ КАМЕРЫ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_046A</Data></Cell>
+    <Cell><Data ss:Type="String">- Идите в Лабораторию</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_047</Data></Cell>
+    <Cell><Data ss:Type="String">- Исследуйте камеру (3W); снимите панель (3X); используйте ПРИСПОСОБЛЕНИЕ ДЛЯ КАМЕРЫ (3Y)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_048</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите мини-игру: (o01 - o03); после каждого раунда кликайте по экрану (p01)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_049</Data></Cell>
+    <Cell><Data ss:Type="String">- Кликните по экрану, затем нажмите на паузу (3Z)\n- Вырежьте стекло (3A)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_050</Data></Cell>
+    <Cell><Data ss:Type="String">- Пройдите СПП; положите мел в ступку, затем измельчите его; положите табак в трубку и зажгите его; откройте клетку с крысой; вытащите внутренности манекена</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_051</Data></Cell>
+    <Cell><Data ss:Type="String">- Используйте ПРИСОСКУ на стекле (3B)\n- Проберитесь внутрь (3C) через дыру в стекле</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STRATEGY_GUIDE_CE_STEP_051A</Data></Cell>
+    <Cell><Data ss:Type="String">- Смотрите ролик</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>312</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>350</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

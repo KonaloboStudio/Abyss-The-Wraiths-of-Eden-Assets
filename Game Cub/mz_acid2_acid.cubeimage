@@ -1,0 +1,10 @@
+<animatedImage fps="4" blendframes="0" width="170" height="254"> 
+	<frame source="mz_acid2_Acid_01.png" dx="0" dy="9" width="170" height="245"></frame>
+	<frame source="mz_acid2_Acid_02.png" dx="0" dy="0" width="170" height="254"></frame>
+	<frame source="mz_acid2_Acid_03.png" dx="0" dy="0" width="170" height="254"></frame>
+	<frame source="mz_acid2_Acid_04.png" dx="2" dy="7" width="168" height="247"></frame>
+	<frame source="mz_acid2_Acid_01.png" dx="0" dy="9" width="170" height="245"></frame>
+	<frame source="mz_acid2_Acid_01.png" dx="0" dy="9" width="170" height="245"></frame>
+	<frame source="mz_acid2_Acid_01.png" dx="0" dy="9" width="170" height="245"></frame>
+	<frame source="mz_acid2_Acid_01.png" dx="0" dy="9" width="170" height="245"></frame>
+</animatedImage >

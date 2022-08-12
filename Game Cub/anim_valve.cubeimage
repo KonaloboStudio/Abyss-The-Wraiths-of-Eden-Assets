@@ -1,0 +1,7 @@
+<animatedImage fps="9.00" blendframes="0">
+
+    <frame source="zoom_water_control_valve01.png"></frame>
+    <frame source="zoom_water_control_valve_02.png"></frame>
+    <frame source="zoom_water_control_valve_03.png"></frame>
+
+</animatedImage>

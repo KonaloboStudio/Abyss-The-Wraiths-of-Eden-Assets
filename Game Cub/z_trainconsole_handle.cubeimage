@@ -1,0 +1,6 @@
+<animatedImage fps="4" blendframes="0" width="228" height="272"> 
+	<frame source="z_trainconsole_4.png" dx="0" dy="176" width="178" height="96"></frame>
+	<frame source="z_trainconsole_3.png" dx="8" dy="130" width="179" height="89"></frame>
+	<frame source="z_trainconsole_2.png" dx="38" dy="40" width="174" height="91"></frame>
+	<frame source="z_trainconsole_1.png" dx="60" dy="0" width="168" height="113"></frame>
+</animatedImage >

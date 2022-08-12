@@ -1,0 +1,12 @@
+<animatedImage fps="5.00" blendframes="0" randomstart="1">
+
+    <frame source="blue_fish_blue_fish0000_far.png"></frame>
+    <frame source="blue_fish_blue_fish0001_far.png"></frame>
+    <frame source="blue_fish_blue_fish0002_far.png"></frame>
+    <frame source="blue_fish_blue_fish0003_far.png"></frame>
+    <frame source="blue_fish_blue_fish0004_far.png"></frame>
+    <frame source="blue_fish_blue_fish0005_far.png"></frame>
+    <frame source="blue_fish_blue_fish0006_far.png"></frame>
+    <frame source="blue_fish_blue_fish0007_far.png"></frame>
+
+</animatedImage>

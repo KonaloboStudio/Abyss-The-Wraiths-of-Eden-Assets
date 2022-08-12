@@ -1,0 +1,7 @@
+<animatedImage fps="5" blendframes="0" width="134" height="134"> 
+	<frame source="musicbox__key_05.png" dx="6" dy="25" width="120" height="88"></frame>
+	<frame source="musicbox__key_04.png" dx="0" dy="44" width="134" height="61"></frame>
+	<frame source="musicbox__key_03.png" dx="4" dy="21" width="121" height="89"></frame>
+	<frame source="musicbox__key_02.png" dx="30" dy="3" width="81" height="128"></frame>
+	<frame source="musicbox__key_01.png" dx="49" dy="0" width="53" height="134"></frame>
+</animatedImage >

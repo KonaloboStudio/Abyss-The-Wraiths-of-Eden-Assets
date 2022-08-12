@@ -1,0 +1,8 @@
+<animatedImage fps="8.00" blendframes="0">
+
+    <frame source="smashedclock_0apron1.png"></frame>
+    <frame source="smashedclock_0apron2.png"></frame>
+    <frame source="smashedclock_0apron3.png"></frame>
+    <frame source="smashedclock_0apron4.png"></frame>
+
+</animatedImage>

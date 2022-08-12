@@ -1,0 +1,8 @@
+<animatedImage fps="6" blendframes="0" width="86" height="90"> 
+	<frame source="zoom_fax_2_ink_01.png" dx="0" dy="0" width="86" height="90"></frame>
+	<frame source="zoom_fax_2_ink_02.png" dx="0" dy="0" width="86" height="90"></frame>
+	<frame source="zoom_fax_2_ink_03.png" dx="0" dy="0" width="86" height="90"></frame>
+	<frame source="zoom_fax_2_ink_04.png" dx="0" dy="0" width="86" height="90"></frame>
+	<frame source="zoom_fax_2_ink_05.png" dx="0" dy="0" width="86" height="90"></frame>
+	<frame source="zoom_fax_2_ink_06.png" dx="0" dy="0" width="86" height="90"></frame>
+</animatedImage >

@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="0" width="314" height="345"> 
+	<frame source="logain_hurt_possesion_1.png" dx="0" dy="0" width="314" height="345"></frame>
+	<frame source="logain_hurt_possesion_2.png" dx="0" dy="0" width="314" height="345"></frame>
+	<frame source="logain_hurt_possesion_3.png" dx="0" dy="0" width="314" height="345"></frame>
+</animatedImage >

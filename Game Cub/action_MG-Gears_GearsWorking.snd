@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" FileName="action_MG-Gears_GearsWorking.wav"></CSampleFile>
+        </CSample>
+</Sound>

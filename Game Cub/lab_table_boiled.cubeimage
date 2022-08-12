@@ -1,0 +1,7 @@
+<animatedImage fps="5" blendframes="0" width="150" height="89"> 
+	<frame source="lab_table_boiled_01.png" dx="2" dy="0" width="148" height="86"></frame>
+	<frame source="lab_table_boiled_02.png" dx="0" dy="21" width="141" height="65"></frame>
+	<frame source="lab_table_boiled_03.png" dx="0" dy="24" width="150" height="65"></frame>
+	<frame source="lab_table_boiled_04.png" dx="23" dy="40" width="119" height="46"></frame>
+	<frame source="lab_table_boiled_05.png" dx="23" dy="40" width="119" height="46"></frame>
+</animatedImage >

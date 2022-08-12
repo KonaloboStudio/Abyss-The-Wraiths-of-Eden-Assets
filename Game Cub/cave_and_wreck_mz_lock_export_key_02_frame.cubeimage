@@ -1,0 +1,11 @@
+<animatedImage fps="7.00" blendframes="0">
+
+    <frame source="cave_and_wreck_mz_lock_export_key_02_frame_01.png"></frame>
+    <frame source="cave_and_wreck_mz_lock_export_key_02_frame_02.png"></frame>
+    <frame source="cave_and_wreck_mz_lock_export_key_02_frame_03.png"></frame>
+    <frame source="cave_and_wreck_mz_lock_export_key_02_frame_04.png"></frame>
+    <frame source="cave_and_wreck_mz_lock_export_key_02_frame_05.png"></frame>
+    <frame source="cave_and_wreck_mz_lock_export_key_02_frame_06.png"></frame>
+    <frame source="cave_and_wreck_mz_lock_export_key_02_frame_07.png"></frame>
+
+</animatedImage>

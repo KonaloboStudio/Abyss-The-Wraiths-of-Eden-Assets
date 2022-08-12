@@ -1,0 +1,7 @@
+<animatedImage fps="8.00" blendframes="0" randomstart="0">
+
+    <frame source="ho_pond_dragonfly.png"></frame>
+    <frame source="ho_pond_dragonfly01.png"></frame>
+    <frame source="ho_pond_dragonfly02.png"></frame>
+
+</animatedImage>

@@ -1,0 +1,8 @@
+<animatedImage fps="4.00" blendframes="0">
+
+    <frame source="market_1_zoom_liftdoor_door_1.png"></frame>
+    <frame source="market_1_zoom_liftdoor_door_2.png"></frame>
+    <frame source="market_1_zoom_liftdoor_door_3.png"></frame>
+    <frame source="market_1_zoom_liftdoor_door_4.png"></frame>
+
+</animatedImage>

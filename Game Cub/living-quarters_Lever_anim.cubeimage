@@ -1,0 +1,9 @@
+<animatedImage fps="10.00" blendframes="0">
+
+    <frame source="lever_anim_lever01.png"></frame>
+    <frame source="lever_anim_lever02.png"></frame>
+    <frame source="lever_anim_lever03.png"></frame>
+    <frame source="lever_anim_lever04.png"></frame>
+    <frame source="lever_anim_lever05.png"></frame>
+
+</animatedImage>

@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.750" Volume="0.500" FileName="action_ToolboxDrop.wav"></CSampleFile>
+        </CSample>
+</Sound>

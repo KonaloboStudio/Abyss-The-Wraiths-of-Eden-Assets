@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Me</Author>
+  <LastAuthor>Me</LastAuthor>
+  <Created>2000-01-01T06:00:00Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Arkusz1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="41" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="200.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="500.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIALOG_PREMIUM-ADVENTURE_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Сыграть в другие замечательные приключения от Artifex Mundi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIALOG_PREMIUM-ADVENTURE_CLOSE</Data></Cell>
+    <Cell><Data ss:Type="String">Закрыть</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIALOG_PREMIUM-ADVENTURE_PLAY-NOW</Data></Cell>
+    <Cell><Data ss:Type="String">ИГРАТЬ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BUTTON_PLAYING_MODE_ADVANCED</Data></Cell>
+    <Cell><Data ss:Type="String">Опытный</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BUTTON_PLAYING_MODE_CASUAL</Data></Cell>
+    <Cell><Data ss:Type="String">Новичок</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">BUTTON_PLAYING_MODE_EXPERT</Data></Cell>
+    <Cell><Data ss:Type="String">Эксперт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CREDITS_NAMES_G5_ARTISTS_TEAM</Data></Cell>
+    <Cell><Data ss:Type="String">Игорь Кобзань \nВячеслав Белецкий \nАлександра Крыхтина</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CREDITS_PRODUCER_G5</Data></Cell>
+    <Cell><Data ss:Type="String">Продюсер</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CREDITS_ARTISTS_G5</Data></Cell>
+    <Cell><Data ss:Type="String">Художники</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CREDITS_QA-TEAM_G5</Data></Cell>
+    <Cell><Data ss:Type="String">Команда по контролю качества</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIALOG_PREMIUM-ADVENTURE_LEARN-MORE</Data></Cell>
+    <Cell><Data ss:Type="String">Узнать больше</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMMON_BUTTON_OK</Data></Cell>
+    <Cell><Data ss:Type="String">$(COMMON_OK)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_FISH</Data></Cell>
+    <Cell><Data ss:Type="String">Рыба</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_PEELER</Data></Cell>
+    <Cell><Data ss:Type="String">Овощечистка</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_CRAYON</Data></Cell>
+    <Cell><Data ss:Type="String">Мелок</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_YELLOW_PAINT</Data></Cell>
+    <Cell><Data ss:Type="String">Желтая краска</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_LADDER_STEPS</Data></Cell>
+    <Cell><Data ss:Type="String">Перекладина</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_ANCHORE_HANDLE</Data></Cell>
+    <Cell><Data ss:Type="String">Рычаг от якоря</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_DIVING_HELMET</Data></Cell>
+    <Cell><Data ss:Type="String">Шлем гидрокостюма</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ITEM_FOSSIL_PART</Data></Cell>
+    <Cell><Data ss:Type="String">Часть окаменелости</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_CONTINUE</Data></Cell>
+    <Cell><Data ss:Type="String">Продолжить</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_CLIENT_NOT_ALLOWED</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_PAYMENTS_ARE_RESTRICTED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Вы не можете совершать покупки с помощью этого устройства.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_FAILED_TO_COMPLETE_REQUEST_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NO_SUCH_PRODUCT_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_SUCCEEDED</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ выполнен</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_CANCELLED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ отменен</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_FAILED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается завершить покупку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_INVALID_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_REMOVED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается завершить покупку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_COMPLETED</Data></Cell>
+    <Cell><Data ss:Type="String">Восстановление успешно!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_CANCELLED</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается завершить покупку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_INVALID</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_FAILED</Data></Cell>
+    <Cell><Data ss:Type="String">Не найдено записей о заказах.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_LATER</Data></Cell>
+    <Cell><Data ss:Type="String">[Позже]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_PURCHASE_CANCELLED</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ отменен.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_PURCHASE_COMPLETE</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ выполнен.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_PURCHASE_NOW</Data></Cell>
+    <Cell><Data ss:Type="String">Купить сейчас</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_RESTORE_FAIL</Data></Cell>
+    <Cell><Data ss:Type="String">Не найдено записей о заказах.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_RESTORE_SUCCESED</Data></Cell>
+    <Cell><Data ss:Type="String">Восстановление успешно!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DIALOG_AVAILABLE-IN-FULL</Data></Cell>
+    <Cell><Data ss:Type="String">This feature is available in the full version of the game.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

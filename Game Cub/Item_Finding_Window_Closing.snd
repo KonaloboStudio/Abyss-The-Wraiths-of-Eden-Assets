@@ -1,0 +1,7 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="0.100">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.600" Volume="0.900" FileName="item_finding_window_closing.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

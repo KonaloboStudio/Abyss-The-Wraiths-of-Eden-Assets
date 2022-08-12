@@ -1,0 +1,13 @@
+<animatedImage fps="12" blendframes="0">
+	<frame source="elevator_final_lever1.png"></frame>
+	<frame source="elevator_final_lever2.png"></frame>
+	<frame source="elevator_final_lever3.png"></frame>
+	<frame source="elevator_final_lever4.png"></frame>
+	<frame source="elevator_final_lever5.png"></frame>
+	<frame source="elevator_final_lever6.png"></frame>
+	<frame source="elevator_final_lever5.png"></frame>
+	<frame source="elevator_final_lever4.png"></frame>
+	<frame source="elevator_final_lever3.png"></frame>
+	<frame source="elevator_final_lever2.png"></frame>
+	<frame source="elevator_final_lever1.png"></frame>
+</animatedImage>

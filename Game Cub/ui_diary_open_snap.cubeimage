@@ -1,0 +1,8 @@
+<animatedImage fps="15" blendframes="0" width="62" height="47"> 
+
+	<frame source="ui_EX_diary_anim_open_snap_frame_001.png" dx="0" dy="0" width="40" height="47"></frame>
+	<frame source="ui_EX_diary_anim_open_snap_frame_002.png" dx="0" dy="0" width="40" height="47"></frame>
+	<frame source="ui_EX_diary_anim_open_snap_frame_003.png" dx="0" dy="0" width="45" height="47"></frame>
+	<frame source="ui_EX_diary_anim_open_snap_frame_004.png" dx="0" dy="0" width="62" height="47"></frame>
+	
+</animatedImage >

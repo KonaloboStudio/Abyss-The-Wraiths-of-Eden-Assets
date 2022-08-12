@@ -1,0 +1,7 @@
+<animatedImage fps="10" blendframes="0" width="120" height="197"> 
+	<frame source="old_camera_arm_01.png" dx="17" dy="0" width="103" height="197"></frame>
+	<frame source="old_camera_arm_02.png" dx="27" dy="18" width="77" height="159"></frame>
+	<frame source="old_camera_arm_03.png" dx="24" dy="17" width="75" height="155"></frame>
+	<frame source="old_camera_arm_04.png" dx="18" dy="18" width="80" height="147"></frame>
+	<frame source="old_camera_arm_05.png" dx="0" dy="19" width="96" height="140"></frame>
+</animatedImage >

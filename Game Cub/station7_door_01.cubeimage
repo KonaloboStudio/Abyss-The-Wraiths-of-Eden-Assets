@@ -1,0 +1,6 @@
+<animatedImage fps="8" blendframes="0" width="161" height="242"> 
+	<frame source="station7_door_opened_00.png" dx="39" dy="1" width="103" height="224"></frame>
+	<frame source="station7_door_opened_01.png" dx="0" dy="4" width="159" height="238"></frame>
+	<frame source="station7_door_opened_02.png" dx="25" dy="0" width="126" height="230"></frame>
+	<frame source="station7_door_opened_03.png" dx="1" dy="2" width="160" height="235"></frame>
+</animatedImage >

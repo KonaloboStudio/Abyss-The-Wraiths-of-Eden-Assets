@@ -1,0 +1,10 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSoundContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="0.800" FileName="Walking_Underwater.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Walking_Underwater_2.wav"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

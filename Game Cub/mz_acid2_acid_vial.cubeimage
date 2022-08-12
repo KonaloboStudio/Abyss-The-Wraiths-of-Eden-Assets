@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="0" width="170" height="248"> 
+	<frame source="mz_acid2_Acid_Vial_01.png" dx="0" dy="0" width="170" height="248"></frame>
+	<frame source="mz_acid2_Acid_Vial_02.png" dx="0" dy="1" width="170" height="247"></frame>
+	<frame source="mz_acid2_Acid_Vial_03.png" dx="0" dy="0" width="168" height="248"></frame>
+</animatedImage >

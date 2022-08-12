@@ -1,0 +1,7 @@
+<animatedImage fps="10" blendframes="0" width="147" height="129"> 
+	<frame source="z_tank_valve_05.png" dx="13" dy="22" width="120" height="107"></frame>
+	<frame source="z_tank_valve_04.png" dx="13" dy="0" width="134" height="120"></frame>
+	<frame source="z_tank_valve_03.png" dx="13" dy="0" width="134" height="120"></frame>
+	<frame source="z_tank_valve_02.png" dx="9" dy="1" width="95" height="119"></frame>
+	<frame source="z_tank_valve_01.png" dx="0" dy="22" width="104" height="98"></frame>
+</animatedImage >

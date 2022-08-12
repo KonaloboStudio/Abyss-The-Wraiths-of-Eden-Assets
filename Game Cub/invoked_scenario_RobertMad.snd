@@ -1,0 +1,11 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="8.7">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="invoked_scenario_RobertMad.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

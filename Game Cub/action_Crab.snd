@@ -1,0 +1,10 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="True" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Crab_1.wav"></CSampleFile>
+        </CSample>
+	<CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Crab_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

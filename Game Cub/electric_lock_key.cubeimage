@@ -1,0 +1,7 @@
+<animatedImage fps="10" blendframes="0" width="123" height="113"> 
+	<frame source="electric_lock_Key_05.png" dx="14" dy="7" width="101" height="96"></frame>
+	<frame source="electric_lock_Key_04.png" dx="0" dy="33" width="114" height="80"></frame>
+	<frame source="electric_lock_Key_03.png" dx="2" dy="23" width="104" height="90"></frame>
+	<frame source="electric_lock_Key_02.png" dx="27" dy="2" width="95" height="102"></frame>
+	<frame source="electric_lock_Key_01.png" dx="35" dy="0" width="88" height="108"></frame>
+</animatedImage >
